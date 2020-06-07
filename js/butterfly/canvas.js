@@ -220,7 +220,7 @@ Canvas.prototype.addButterfly = function (param) {
     text.fontSize = 32;
     text.justification = 'center';
     group.addChild(text);
-    var text = new PointText(new Point(rectangle.center.x + 47, rectangle.y + rectangle.height + offsety - 9));
+    var text = new PointText(new Point(rectangle.center.x + 48, rectangle.y + rectangle.height + offsety - 9));
     text.fillColor = '#202020';
     text.fontFamily = '"Computer Modern Serif Upright Italic"';
     text.fontWeight = 'Italic';
@@ -439,10 +439,14 @@ Canvas.prototype.drawTooltip = function (X, Y, W, H, value, left) {
     path.shadowColor = 'black';
     path.shadowBlur = 12;
     path.shadowOffset = new Point(5, 5);
+    var maxY = x + W * this.gridWidth - 20;
     if (!Array.isArray(value)) {
         var text = new PointText(new Point(x + 18, y + 28));
         text.fontSize = 18;
         text.content = value;
+        if (x + 18 + text.bounds.width > maxY) {
+            text.bounds = new Rectangle(x + 18, text.bounds.y, maxY - x - 18, text.bounds.height);
+        }
         group.addChild(text);
     } else {
         var lineHeight = 21;
@@ -450,7 +454,7 @@ Canvas.prototype.drawTooltip = function (X, Y, W, H, value, left) {
         this.drawLatexText(x + 18, startY, value[0].value, 28, group, x + W * this.gridWidth - 10);
         startY += (value.length == 6) ? 8 : 8 + lineHeight;
         for (var i = 1; i < value.length; i++) {
-            this.drawLatexText(x + 18, startY + i * lineHeight, value[i].key + ' = ' + value[i].value, 22, group, x + W * this.gridWidth - 20);
+            this.drawLatexText(x + 18, startY + i * lineHeight, value[i].key + ' = ' + value[i].value, 22, group, maxY);
         }
     }
     group.opacity = 1;
