@@ -90,15 +90,15 @@ select, textarea {
 		font-weight: 300;
 	}
 
-	input, textarea, select {
-		color: #474f51;
-		font-size: 14px;
-		font-family: sans-serif;
-		line-height: 1.85em;
-		font-weight: 300;
-		padding: 3px;
-		width: 100%;
-	}
+    input, textarea, select {
+        color: #474f51;
+        font-size: 14px;
+        font-family: sans-serif;
+        line-height: 1.85em;
+        font-weight: 300;
+        padding: 3px;
+        width: 100%;
+    }
 
         input[type='checkbox'] {
             width: auto;
