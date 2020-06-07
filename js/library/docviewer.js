@@ -125,22 +125,59 @@ function DocViewer() { };
 		}
 		$("#doc-count").text(title)
 	};
-	
+
+    DocViewer.GetCondensedAuthors = function (doc) {
+        var result = [];
+        if (doc.Authors.length < 6)
+        {
+            for (var i = 0; i < doc.Authors.length; i++) {
+                result[result.length] = doc.Authors[i].Last_Name;
+            }
+        }
+        else
+        {
+            result[result.length] = doc.Authors[0].Last_Name;
+            result[result.length] = 'et al.';
+        }
+        return result.join(' ');
+    }
+
+    DocViewer.getFileName = function (doc) {
+        var result = '';
+        if (doc.Code) {
+            result += '[' + doc.Code + ']';
+        }
+        if (doc.Authors.length > 0) {
+            if (result) result += ' ';
+            result += DocViewer.GetCondensedAuthors(doc);
+        }
+        if (doc.Year) {
+            if (result) result += ' - ';
+            result += doc.Year;
+        }
+        if (doc.Title) {
+            if (result) result += ' - ';
+            result += doc.Title;
+        }
+        return result;
+    };
+
+
     DocViewer.Open = function (code) {
-        var doc = null;
+        var doc = undefined;
         for (var i = 0; i < DocViewer.Data.length; i++) {
             if (DocViewer.Data[i].Code == code) {
                 doc = DocViewer.Data[i];
                 break;
             }
         }
-        if (doc != null) {
-            if (doc.Url !== undefined && doc.Url !== null) {
-                window.open(DocViewer.Data[i].Url, '_blank');
+        if (doc != undefined) {
+            if (doc.Url) {
+                window.open(doc.Url, '_blank');
             }
             else {
                 if (DocViewer.administrator) {
-                    window.open('http://localhost:8000/' + encodeURI(doc.Filename) + '.pdf', '_blank');
+                    window.open('http://localhost:8000/' + encodeURI(DocViewer.getFileName(doc)) + '.pdf', '_blank');
                 }
                 else {
                     this.GoogleScholar(code);
