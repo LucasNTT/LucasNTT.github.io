@@ -3,6 +3,7 @@
     {
       "Code": "AB74",
       "Title": "Fast Convolution Using Fermat Number Transforms with Applications to Digital Filtering",
+      "Year": "1974",
       "Type": "paper",
       "Authors": [
         {
@@ -20,6 +21,7 @@
     {
       "Code": "AB74b",
       "Title": "Fast One-Dimensional Digital Convolution by Multidimensional Techniques",
+      "Year": "1974",
       "Type": "paper",
       "Authors": [
         {
@@ -37,6 +39,7 @@
     {
       "Code": "AB75",
       "Title": "Number Theoretic Transforms to Implement Fast Digital Convolution",
+      "Year": "1975",
       "Type": "paper",
       "Authors": [
         {
@@ -54,6 +57,7 @@
     {
       "Code": "ABGGKL16",
       "Title": "NFLlib NTT-based Fast Lattice Library",
+      "Year": "2016",
       "Type": "paper",
       "Authors": [
         {
@@ -87,6 +91,7 @@
     {
       "Code": "AC86",
       "Title": "Fourier transform and convolution subroutines for the IBM 3090 Vector Facility",
+      "Year": "1986",
       "Type": "paper",
       "Authors": [
         {
@@ -104,6 +109,7 @@
     {
       "Code": "AC87",
       "Title": "Vectorized Mixed Radix Discrete Fourier Transform Algorithms",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
@@ -121,6 +127,7 @@
     {
       "Code": "AD94",
       "Title": "Efficient Overlapped FFT Algorithms for Hypercube-Connected Multicomputers",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -138,6 +145,7 @@
     {
       "Code": "AGZ94",
       "Title": "A High Performance Parallel Algorithm for 1-D FFT",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -159,6 +167,7 @@
     {
       "Code": "AH11",
       "Title": "A Comparative Benchmarking of the FFT on Fermi and Evergreen GPUs",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -176,6 +185,7 @@
     {
       "Code": "AJS07",
       "Title": "Adaptive Computation of Self Sorting In-Place FFTs on Hierarchical Memory Architectures",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -197,6 +207,7 @@
     {
       "Code": "AKS02",
       "Title": "Primes is in P",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -218,6 +229,7 @@
     {
       "Code": "AL88",
       "Title": "A Segmented FFT Algorithm for Vector Computers",
+      "Year": "1988",
       "Type": "paper",
       "Authors": [
         {
@@ -235,6 +247,7 @@
     {
       "Code": "Ala07",
       "Title": "Application de la transform\u00E9e en nombres entiers \u00E0 la conception d\u0027algorithmes de faible complexit\u00E9 pour l\u2019annulation d\u2019\u00E9chos acoustiques",
+      "Year": "2007",
       "Type": "thesis",
       "Authors": [
         {
@@ -248,6 +261,7 @@
     {
       "Code": "Arn10",
       "Title": "Matters Computational",
+      "Year": "2010",
       "Type": "book",
       "Authors": [
         {
@@ -261,6 +275,7 @@
     {
       "Code": "Arn12",
       "Title": "An in-place Truncated Fourier Transform algorithm",
+      "Year": "2012",
       "Type": "poster",
       "Authors": [
         {
@@ -274,6 +289,7 @@
     {
       "Code": "Arn12",
       "Title": "An in-place weighted truncated Fourier transform with applications to polynomial multiplication",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -287,6 +303,7 @@
     {
       "Code": "Arn13",
       "Title": "A new Truncated Fourier Transform algorithm",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -300,6 +317,7 @@
     {
       "Code": "ASES12",
       "Title": "High Performance Multi-dimensional (2D-3D) FFT-Shift Implementation on Graphics Processing Units (GPUs)",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -325,6 +343,7 @@
     {
       "Code": "Avi61",
       "Title": "Signed-Digit Number Representations for Fast Parallel Arithmetic",
+      "Year": "1961",
       "Type": "paper",
       "Authors": [
         {
@@ -338,6 +357,7 @@
     {
       "Code": "AZ14",
       "Title": "Three Dimensional Fast Fourier Transform CUDA Implementation",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -355,6 +375,7 @@
     {
       "Code": "BA00",
       "Title": "Number Theoretic Transform Modulo K",
+      "Year": "2000",
       "Type": "paper",
       "Authors": [
         {
@@ -372,6 +393,7 @@
     {
       "Code": "Baa05",
       "Title": "A Generalized Cached-FFT Algorithm",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -385,6 +407,7 @@
     {
       "Code": "Baa99",
       "Title": "An Approach to Low Power, High-Performance, Fast Fourier Transform Processor Design",
+      "Year": "1999",
       "Type": "thesis",
       "Authors": [
         {
@@ -398,6 +421,7 @@
     {
       "Code": "Bai10",
       "Title": "OpenCL Fast Fourier Transform",
+      "Year": "2010",
       "Type": "link",
       "Authors": [
         {
@@ -411,6 +435,7 @@
     {
       "Code": "Bai86",
       "Title": "A High-Performance Fast Fourier Transform Algorithm for the Cray-2",
+      "Year": "1986",
       "Type": "paper",
       "Authors": [
         {
@@ -424,6 +449,7 @@
     {
       "Code": "Bai87",
       "Title": "A High-Performance FFT Algorithm for Vector Supercomputers",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
@@ -437,6 +463,7 @@
     {
       "Code": "Bai89",
       "Title": "FFTs in External or Hierarchical Memory",
+      "Year": "1989",
       "Type": "paper",
       "Authors": [
         {
@@ -450,6 +477,7 @@
     {
       "Code": "Ban13",
       "Title": "Speed up Large Integer Multiplication Using Fourier Transforms and CUDA Technology",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -463,6 +491,7 @@
     {
       "Code": "Ban14",
       "Title": "Big Integer Multiplication with CUDA FFT (cuFFT) Library",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -476,6 +505,7 @@
     {
       "Code": "Ban14b",
       "Title": "Implementation of Parallel Fast Hartley Transform (FHT) Using Cuda",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -489,6 +519,7 @@
     {
       "Code": "BCA04",
       "Title": "Some Historical Notes on Number Theoretic Transform",
+      "Year": "2004",
       "Type": "paper",
       "Authors": [
         {
@@ -510,6 +541,7 @@
     {
       "Code": "BCEM93",
       "Title": "Irregular Primes and Cyclotomic Invariants to Four Million",
+      "Year": "1993",
       "Type": "paper",
       "Authors": [
         {
@@ -535,6 +567,7 @@
     {
       "Code": "BCEMS01",
       "Title": "Irregular Primes and Cyclotomic Invariants to 12 Million",
+      "Year": "2001",
       "Type": "paper",
       "Authors": [
         {
@@ -564,6 +597,7 @@
     {
       "Code": "BCH96",
       "Title": "Comparative Analysis of FFT Algorithms in Sequential and Parallel Form",
+      "Year": "1996",
       "Type": "paper",
       "Authors": [
         {
@@ -585,6 +619,7 @@
     {
       "Code": "BCS92",
       "Title": "Irregular Primes to One Million",
+      "Year": "1992",
       "Type": "paper",
       "Authors": [
         {
@@ -606,6 +641,7 @@
     {
       "Code": "Ber01",
       "Title": "Multidigit Multiplication for Mathematicians",
+      "Year": "2001",
       "Type": "paper",
       "Authors": [
         {
@@ -619,6 +655,7 @@
     {
       "Code": "Ber07",
       "Title": "The tangent FFT",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -632,6 +669,7 @@
     {
       "Code": "Ber16",
       "Title": "Adaptation du calcul de la Transform\u00E9e de Fourier Rapide sur une architecture mixte CPU GPU int\u00E9gr\u00E9e",
+      "Year": "2016",
       "Type": "thesis",
       "Authors": [
         {
@@ -645,6 +683,7 @@
     {
       "Code": "BFJPS09",
       "Title": "Fast Fourier Transforms",
+      "Year": "2009",
       "Type": "book",
       "Authors": [
         {
@@ -674,6 +713,7 @@
     {
       "Code": "BGDCD99",
       "Title": "Parametrizable Behavioral IP Module for a Data-Localized Low-Power FFT",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -703,6 +743,7 @@
     {
       "Code": "BGTZ08",
       "Title": "Faster Multiplication in GF(2)[x]",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -728,6 +769,7 @@
     {
       "Code": "BH95",
       "Title": "The DFT - an Owners Manual for the Discrete Fourier Transform",
+      "Year": "1995",
       "Type": "book",
       "Authors": [
         {
@@ -745,6 +787,7 @@
     {
       "Code": "Bha13",
       "Title": "The Math Trick Behind MP3s, JPEGs, and Homer Simpsons Face",
+      "Year": "2013",
       "Type": "link",
       "Authors": [
         {
@@ -758,6 +801,7 @@
     {
       "Code": "Bla12",
       "Title": "Computing the Fast Fourier Transform on SIMD Microprocessors",
+      "Year": "2012",
       "Type": "thesis",
       "Authors": [
         {
@@ -771,6 +815,7 @@
     {
       "Code": "BLH05",
       "Title": "A highly efficient modular Multiplication Algorithm for Finite Field Arithmetic in GF(P)",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -792,6 +837,7 @@
     {
       "Code": "BN97",
       "Title": "Arbitrary Precision Arithmetic - SIMD Style",
+      "Year": "1997",
       "Type": "paper",
       "Authors": [
         {
@@ -809,6 +855,7 @@
     {
       "Code": "Boo80",
       "Title": "FFT as Nested Multiplication, With a Twist",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -822,6 +869,7 @@
     {
       "Code": "BPS07",
       "Title": "Multi-dimensional Array Memory Accesses for FFTs on Parallel Architectures",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -843,6 +891,7 @@
     {
       "Code": "Bra84",
       "Title": "The Fast Hartley Transform",
+      "Year": "1984",
       "Type": "paper",
       "Authors": [
         {
@@ -856,6 +905,7 @@
     {
       "Code": "Bre74",
       "Title": "The Parallel Evaluation of General Arithmetic Expressions",
+      "Year": "1974",
       "Type": "paper",
       "Authors": [
         {
@@ -869,6 +919,7 @@
     {
       "Code": "Bre99",
       "Title": "Factorization of the Tenth Fermat Number",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -882,6 +933,7 @@
     {
       "Code": "Bri74",
       "Title": "The Fast Fourier Transform",
+      "Year": "1974",
       "Type": "book",
       "Authors": [
         {
@@ -895,6 +947,7 @@
     {
       "Code": "BS06",
       "Title": "Achieving Efficient Polynomial Multiplication in Fermat Fields Using the Fast Fourier Transform",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -912,6 +965,7 @@
     {
       "Code": "BS90",
       "Title": "The Fractional Fourier Transform and Applications",
+      "Year": "1990",
       "Type": "paper",
       "Authors": [
         {
@@ -929,6 +983,7 @@
     {
       "Code": "BS95",
       "Title": "The Fractional Fourier Transform and Applications",
+      "Year": "1995",
       "Type": "paper",
       "Authors": [
         {
@@ -946,6 +1001,7 @@
     {
       "Code": "Bue05",
       "Title": "Montgomery Multiplication",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -959,6 +1015,7 @@
     {
       "Code": "Bur09",
       "Title": "The Prime Factor and Winograd Fourier Transform Algorithms",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -972,6 +1029,7 @@
     {
       "Code": "Bur12",
       "Title": "Fast Fourier Transforms",
+      "Year": "2012",
       "Type": "book",
       "Authors": [
         {
@@ -985,6 +1043,7 @@
     {
       "Code": "BZ10",
       "Title": "Modern Computer Arithmetic",
+      "Year": "2010",
       "Type": "book",
       "Authors": [
         {
@@ -1002,6 +1061,7 @@
     {
       "Code": "BZ10b",
       "Title": "An O(M(n) Logn) Algorithm for the Jacobi Symbol",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -1019,6 +1079,7 @@
     {
       "Code": "BZ10c",
       "Title": "An O(M(n) Logn) Algorithm for the Jacobi Symbol",
+      "Year": "2010",
       "Type": "presentation",
       "Authors": [
         {
@@ -1036,6 +1097,7 @@
     {
       "Code": "BZ11",
       "Title": "The Great Trinomial Hunt",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -1053,6 +1115,7 @@
     {
       "Code": "Can89",
       "Title": "On Arithmetical Algorithms over Finite Fields",
+      "Year": "1989",
       "Type": "paper",
       "Authors": [
         {
@@ -1066,6 +1129,7 @@
     {
       "Code": "Car91",
       "Title": "Using Local Memory to Boost the Performance of FFT Algorithms on the CRAY-2 Supercomputer",
+      "Year": "1991",
       "Type": "paper",
       "Authors": [
         {
@@ -1079,6 +1143,7 @@
     {
       "Code": "CBMIYV12",
       "Title": "On the Communication Complexity of 3D FFTs and its Implications for Exascale",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -1112,6 +1177,7 @@
     {
       "Code": "CCAP10",
       "Title": "Exploring Data Streaming to Improve 3D FFT Implementation on Multiple GPUs",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -1141,6 +1207,7 @@
     {
       "Code": "CCFHKLMNRW67",
       "Title": "What is the Fast Fourier Transform",
+      "Year": "1967",
       "Type": "paper",
       "Authors": [
         {
@@ -1190,6 +1257,7 @@
     {
       "Code": "CCM09",
       "Title": "Improving Performance of Matrix Multiplication and FFT on GPU",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -1211,6 +1279,7 @@
     {
       "Code": "CCM10",
       "Title": "Large-Scale FFT on GPU Clusters",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -1232,6 +1301,7 @@
     {
       "Code": "CCMM17",
       "Title": "Big Prime Field FFT on the GPU",
+      "Year": "2017",
       "Type": "paper",
       "Authors": [
         {
@@ -1257,6 +1327,7 @@
     {
       "Code": "CDNY95",
       "Title": "The Twenty-Second Fermat Number is Composite",
+      "Year": "1995",
       "Type": "paper",
       "Authors": [
         {
@@ -1282,6 +1353,7 @@
     {
       "Code": "CF94",
       "Title": "Discrete Weighted Transforms and Large-Integer Arithmetic",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -1299,6 +1371,7 @@
     {
       "Code": "CFP08",
       "Title": "How To Write Fast Numerical Code - A Small Introduction",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -1320,6 +1393,7 @@
     {
       "Code": "CG00",
       "Title": "Inside the FFT Black Box",
+      "Year": "2000",
       "Type": "book",
       "Authors": [
         {
@@ -1337,6 +1411,7 @@
     {
       "Code": "CG98",
       "Title": "FFT algorithms and their adaptation to parallel processing",
+      "Year": "1998",
       "Type": "paper",
       "Authors": [
         {
@@ -1354,6 +1429,7 @@
     {
       "Code": "CH07",
       "Title": "Montgomery Reduction Algorithm for Modular Multiplication Using Low-Weight Polynomial Form Integers",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -1371,6 +1447,7 @@
     {
       "Code": "Cha88",
       "Title": "Gray codes, Fast Fourier Transforms and hypercubes",
+      "Year": "1988",
       "Type": "paper",
       "Authors": [
         {
@@ -1384,6 +1461,7 @@
     {
       "Code": "Chm12",
       "Title": "Fast, Parallel Algorithm for Multiplying Polynomials with Integer Coefficients",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -1397,6 +1475,7 @@
     {
       "Code": "Cho95",
       "Title": "Fast Transform Techniques for RS Codes",
+      "Year": "1995",
       "Type": "paper",
       "Authors": [
         {
@@ -1410,6 +1489,7 @@
     {
       "Code": "CK00",
       "Title": "Supercomputer-style FFT library for Apple G4",
+      "Year": "2000",
       "Type": "paper",
       "Authors": [
         {
@@ -1427,6 +1507,7 @@
     {
       "Code": "CK91",
       "Title": "On Fast Multiplication of Polynomials over Arbitrary Algebras",
+      "Year": "1991",
       "Type": "paper",
       "Authors": [
         {
@@ -1444,6 +1525,7 @@
     {
       "Code": "CL13",
       "Title": "A Hybrid GPU CPU FFT Library for Large FFT Problems",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -1461,6 +1543,7 @@
     {
       "Code": "CL91",
       "Title": "The Early Papers on Number Theoretic Transforms (NTT) - A Bibliography until 1991",
+      "Year": "1991",
       "Type": "paper",
       "Authors": [
         {
@@ -1478,6 +1561,7 @@
     {
       "Code": "CLW67",
       "Title": "Historical Notes on the Fast Fourier Transform",
+      "Year": "1967",
       "Type": "paper",
       "Authors": [
         {
@@ -1499,6 +1583,7 @@
     {
       "Code": "CLW69",
       "Title": "The Finite Fourier Transform",
+      "Year": "1969",
       "Type": "paper",
       "Authors": [
         {
@@ -1520,6 +1605,7 @@
     {
       "Code": "CMP02",
       "Title": "The Twenty-Fourth Fermat Number is Composite",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -1541,6 +1627,7 @@
     {
       "Code": "CN13",
       "Title": "Prime Tutorial",
+      "Year": "2013",
       "Type": "presentation",
       "Authors": [
         {
@@ -1554,6 +1641,7 @@
     {
       "Code": "Coo87",
       "Title": "The Re-discovery of the Fast Fourier Transform Algorithm",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
@@ -1567,6 +1655,7 @@
     {
       "Code": "CP03",
       "Title": "On the implementation of AKS-class primality tests",
+      "Year": "2003",
       "Type": "paper",
       "Authors": [
         {
@@ -1584,6 +1673,7 @@
     {
       "Code": "CP05",
       "Title": "Prime Numbers",
+      "Year": "2005",
       "Type": "book",
       "Authors": [
         {
@@ -1601,6 +1691,7 @@
     {
       "Code": "CPA04",
       "Title": "Super-sized Multiplies How Do FPGAs Fare in Extended Digit Multipliers",
+      "Year": "2004",
       "Type": "paper",
       "Authors": [
         {
@@ -1622,6 +1713,7 @@
     {
       "Code": "Cra99",
       "Title": "Integer convolution via split-radix fast Galois transform",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -1635,6 +1727,7 @@
     {
       "Code": "CS18",
       "Title": "Accelerating 2D FFT Exploit GPU Tensor Cores through Mixed-Precision",
+      "Year": "2018",
       "Type": "paper",
       "Authors": [
         {
@@ -1652,6 +1745,7 @@
     {
       "Code": "CT18",
       "Title": "Fast Integer Multiplication Using Generalized Fermat Primes",
+      "Year": "2018",
       "Type": "paper",
       "Authors": [
         {
@@ -1669,6 +1763,7 @@
     {
       "Code": "CT65",
       "Title": "An Algorithm for the Machine Calculation of Complex Fourier Series",
+      "Year": "1965",
       "Type": "paper",
       "Authors": [
         {
@@ -1686,6 +1781,7 @@
     {
       "Code": "CT86",
       "Title": "Number-Theoretic Transforms of Prescribed Length",
+      "Year": "1986",
       "Type": "paper",
       "Authors": [
         {
@@ -1703,6 +1799,7 @@
     {
       "Code": "CT89",
       "Title": "Parameter Determination for Complex Number-Theoretic Transforms Using Cyclotomic Polynomials",
+      "Year": "1989",
       "Type": "paper",
       "Authors": [
         {
@@ -1720,6 +1817,7 @@
     {
       "Code": "CW80",
       "Title": "Some Very Large Primes of the Form k.2m \u002B 1",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -1737,6 +1835,7 @@
     {
       "Code": "CW87",
       "Title": "Matrix Multiplication via Arithmetic Progressions",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
@@ -1754,6 +1853,7 @@
     {
       "Code": "DBLG11",
       "Title": "Auto-tuning of Fast Fourier Transform on Graphics Processors",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -1779,6 +1879,7 @@
     {
       "Code": "DCD94",
       "Title": "Generalized Fermat-Mersenne Number Theoretic Transform",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -1800,6 +1901,7 @@
     {
       "Code": "Dem13",
       "Title": "Shuffle Tips and Tricks",
+      "Year": "2013",
       "Type": "presentation",
       "Authors": [
         {
@@ -1813,6 +1915,7 @@
     {
       "Code": "DG01",
       "Title": "Distribution of Generalized Fermat Prime Numbers",
+      "Year": "2001",
       "Type": "paper",
       "Authors": [
         {
@@ -1830,6 +1933,7 @@
     {
       "Code": "DH82",
       "Title": "Number Theoretic Transforms with 2 as a Root of Unity",
+      "Year": "1982",
       "Type": "paper",
       "Authors": [
         {
@@ -1847,6 +1951,7 @@
     {
       "Code": "DJK13",
       "Title": "Reduction of Delay Propagation in Parallel Architecture Based on FNT for High Speed Cyclic Convolution",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -1868,6 +1973,7 @@
     {
       "Code": "DK95",
       "Title": "Factors of Generalized Fermat Numbers",
+      "Year": "1995",
       "Type": "paper",
       "Authors": [
         {
@@ -1885,6 +1991,7 @@
     {
       "Code": "DKS08",
       "Title": "Fast Integer Multiplication Using Modular Arithmetic",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -1906,6 +2013,7 @@
     {
       "Code": "DPE88",
       "Title": "On Computing the Inverse DFT",
+      "Year": "1988",
       "Type": "paper",
       "Authors": [
         {
@@ -1927,6 +2035,7 @@
     {
       "Code": "DR93",
       "Title": "Fast Fourier Transforms for Nonequispaced Data",
+      "Year": "1993",
       "Type": "paper",
       "Authors": [
         {
@@ -1944,6 +2053,7 @@
     {
       "Code": "DS15",
       "Title": "cuHE A Homomorphic Encryption Accelerator Library",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -1961,6 +2071,7 @@
     {
       "Code": "DV11",
       "Title": "Redundant Modular Reduction Algorithms",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -1978,6 +2089,7 @@
     {
       "Code": "DV78",
       "Title": "Number Theoretic Transforms with modulus 2 2q- 2 q\u002B 1",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -1995,6 +2107,7 @@
     {
       "Code": "DV78b",
       "Title": "The Discrete Fourier Transform Over Finite Rings with Application to Fast Convolution",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -2012,6 +2125,7 @@
     {
       "Code": "DV80",
       "Title": "Applications of Algebraic Numbers to Computation of Convolutions and DFTs with Few Multiplications",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -2033,6 +2147,7 @@
     {
       "Code": "DV80b",
       "Title": "The Generalized Discrete Fourier Transform in Rings of Algebraic integers",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -2054,6 +2169,7 @@
     {
       "Code": "DV90",
       "Title": "Fast Fourier Transforms A Tutorial Review and a State of the Art",
+      "Year": "1990",
       "Type": "paper",
       "Authors": [
         {
@@ -2071,6 +2187,7 @@
     {
       "Code": "DZG94",
       "Title": "A general purpose subroutine for Fast Fourier Transform on a distributed memory parallel machine",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -2092,6 +2209,7 @@
     {
       "Code": "EH07",
       "Title": "On Binary Signed Digit Representations of Integers",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2109,6 +2227,7 @@
     {
       "Code": "ELWW16",
       "Title": "Optimizing Modular Multiplication for NVIDIA\u0027s Maxwell GPUs",
+      "Year": "2016",
       "Type": "paper",
       "Authors": [
         {
@@ -2134,6 +2253,7 @@
     {
       "Code": "Eme07",
       "Title": "Multiplying Huge Integers Using Fourier Transforms",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2147,6 +2267,7 @@
     {
       "Code": "Eme09",
       "Title": "Efficient Multiplication of Polynomials on Graphics Hardware",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -2160,6 +2281,7 @@
     {
       "Code": "Emm16",
       "Title": "High Performance Modular Exponentiation",
+      "Year": "2016",
       "Type": "presentation",
       "Authors": [
         {
@@ -2173,6 +2295,7 @@
     {
       "Code": "EW10",
       "Title": "High Precision Integer Addition, Subtraction and Multiplication with a Graphics Processing Unit",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -2190,6 +2313,7 @@
     {
       "Code": "EW11",
       "Title": "High Precision Integer Multiplication with a GPU Using Strassen\u0027s Algorithm With Multiple FFT Sizes",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -2207,6 +2331,7 @@
     {
       "Code": "Fag90",
       "Title": "Large Integer Multiplication on Massively Parallel Processors",
+      "Year": "1990",
       "Type": "paper",
       "Authors": [
         {
@@ -2220,6 +2345,7 @@
     {
       "Code": "Fag92",
       "Title": "Large Integer Multiplication on Hypercubes",
+      "Year": "1992",
       "Type": "paper",
       "Authors": [
         {
@@ -2233,6 +2359,7 @@
     {
       "Code": "FC06",
       "Title": "FFT and Convolution Performance in Image Filtering on GPU",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -2250,6 +2377,7 @@
     {
       "Code": "Fer82",
       "Title": "A Simple Derivation of Glassman\u0027s General N Fast Fourier Transform",
+      "Year": "1982",
       "Type": "paper",
       "Authors": [
         {
@@ -2263,6 +2391,7 @@
     {
       "Code": "FJ05",
       "Title": "The Design and Implementation of FFTW3",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -2280,6 +2409,7 @@
     {
       "Code": "FJ07",
       "Title": "A modified split-radix FFT with fewer arithmetic operations",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2297,6 +2427,7 @@
     {
       "Code": "FJ09",
       "Title": "Implementing FFTs in Practice",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -2314,6 +2445,7 @@
     {
       "Code": "FJ97",
       "Title": "The Fastest Fourier Transform in the West",
+      "Year": "1997",
       "Type": "paper",
       "Authors": [
         {
@@ -2331,6 +2463,7 @@
     {
       "Code": "FJ98",
       "Title": "FFTW An Adaptive Software Architecture for the FFT",
+      "Year": "1998",
       "Type": "paper",
       "Authors": [
         {
@@ -2352,6 +2485,7 @@
     {
       "Code": "FKMW04",
       "Title": "Proving the primality of very large numbers with fastECPP",
+      "Year": "2004",
       "Type": "presentation",
       "Authors": [
         {
@@ -2377,6 +2511,7 @@
     {
       "Code": "For81",
       "Title": "A Vector Implementation of the Fast Fourier Transform Algorithm",
+      "Year": "1981",
       "Type": "paper",
       "Authors": [
         {
@@ -2390,6 +2525,7 @@
     {
       "Code": "FP11",
       "Title": "Fast Fourier Transform (Encyclopedia of Parallel Computing)",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -2407,6 +2543,7 @@
     {
       "Code": "Fra76",
       "Title": "Array Permutation by Index-Digit Permutation",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -2420,6 +2557,7 @@
     {
       "Code": "Fur07",
       "Title": "Faster Integer Multiplication",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2433,6 +2571,7 @@
     {
       "Code": "Fur14",
       "Title": "How Fast Can We Multiply Large Integers on an Actual Computer",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -2446,6 +2585,7 @@
     {
       "Code": "FVP05",
       "Title": "Formal Loop Merging for Signal Transforms",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -2467,6 +2607,7 @@
     {
       "Code": "FVP06",
       "Title": "FFT Program Generation for Shared Memory  SMP and Multicore",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -2488,6 +2629,7 @@
     {
       "Code": "GA09",
       "Title": "Ultra Large-Scale FFT Processing on Graphics Processor Arrays",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -2501,6 +2643,7 @@
     {
       "Code": "Gar05",
       "Title": "Can Sch\u00F6nhage multiplication speed up the RSA decryption or encryption",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -2514,6 +2657,7 @@
     {
       "Code": "GD06",
       "Title": "Implementation of float-float operators on graphics hardware",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -2531,6 +2675,7 @@
     {
       "Code": "GG99",
       "Title": "Modern Computer Algebra",
+      "Year": "1999",
       "Type": "book",
       "Authors": [
         {
@@ -2548,6 +2693,7 @@
     {
       "Code": "GHPS99",
       "Title": "A Comparative Analysis of FFT Algorithms",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -2573,6 +2719,7 @@
     {
       "Code": "GHSJ94",
       "Title": "Implementing Fast Fourier Transforms on Distributed-Memory Multiprocessors Using Data Redistributions",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -2598,6 +2745,7 @@
     {
       "Code": "GIT09",
       "Title": "Comparison of Modular Arithmetic Algorithms on GPUs",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -2619,6 +2767,7 @@
     {
       "Code": "GK90",
       "Title": "The Scalability of FFT on Parallel Computers",
+      "Year": "1990",
       "Type": "paper",
       "Authors": [
         {
@@ -2636,6 +2785,7 @@
     {
       "Code": "GKZ07",
       "Title": "A GMP-based Implementation of Sch\u00F6nhage-Strassen\u2019s Large Integer Multiplication Algorithm",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2657,6 +2807,7 @@
     {
       "Code": "Gla70",
       "Title": "A Generalization of the Fast Fourier Transform",
+      "Year": "1970",
       "Type": "paper",
       "Authors": [
         {
@@ -2670,6 +2821,7 @@
     {
       "Code": "GLDSM08",
       "Title": "High Performance Discrete Fourier Transforms on Graphics Processors",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -2699,6 +2851,7 @@
     {
       "Code": "GLGM06",
       "Title": "A Memory Model for Scientific Algorithms on Graphics Processors",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -2724,6 +2877,7 @@
     {
       "Code": "GLS10",
       "Title": "An Empirically Tuned 2D and 3D FFT Library on CUDA GPU",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -2745,6 +2899,7 @@
     {
       "Code": "GM07",
       "Title": "Cache-Efficient Numerical Algorithms using Graphics Hardware",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2762,6 +2917,7 @@
     {
       "Code": "GM10",
       "Title": "Additive Fast Fourier Transforms over Finite Fields",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -2779,6 +2935,7 @@
     {
       "Code": "GM13",
       "Title": "Generalised Mersenne Numbers Revisited",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -2796,6 +2953,7 @@
     {
       "Code": "Goo71",
       "Title": "The Relationship Between Two Fast Fourier Transforms",
+      "Year": "1971",
       "Type": "paper",
       "Authors": [
         {
@@ -2809,6 +2967,7 @@
     {
       "Code": "Gou97",
       "Title": "FFT Algorithms",
+      "Year": "1997",
       "Type": "paper",
       "Authors": [
         {
@@ -2822,6 +2981,7 @@
     {
       "Code": "Gra04",
       "Title": "It is easy to determine wheter a given integer is prime",
+      "Year": "2004",
       "Type": "paper",
       "Authors": [
         {
@@ -2835,6 +2995,7 @@
     {
       "Code": "Gro15",
       "Title": "An Elliptic Curve Test for Mersenne Primes",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -2848,6 +3009,7 @@
     {
       "Code": "GRT77",
       "Title": "Integer Convolutions Over the Finite Field $GF( 3 . 2^n  \u002B 1 )$",
+      "Year": "1977",
       "Type": "paper",
       "Authors": [
         {
@@ -2869,6 +3031,7 @@
     {
       "Code": "GRTZ08",
       "Title": "Memory Locality Exploitation Strategies for FFT on the CUDA Architecture",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -2894,6 +3057,7 @@
     {
       "Code": "GS12",
       "Title": "A Transpose-Free In-Place SIMD Optimized FFT",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -2911,14 +3075,15 @@
     {
       "Code": "GS66",
       "Title": "Fast Fourier Transforms For Fun and Profit",
+      "Year": "1966",
       "Type": "paper",
       "Authors": [
         {
-          "First_Name": "",
+          "First_Name": "W. M.",
           "Last_Name": "Gentleman"
         },
         {
-          "First_Name": "",
+          "First_Name": "G.",
           "Last_Name": "Sande"
         }
       ],
@@ -2928,6 +3093,7 @@
     {
       "Code": "GSL11",
       "Title": "Using GPUs to Compute Large Out-of-card FFTs",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -2949,6 +3115,7 @@
     {
       "Code": "GT07",
       "Title": "The mpFq library and implementing curve-based key exchanges",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -2966,6 +3133,7 @@
     {
       "Code": "Gud99a",
       "Title": "Practical Applications of Number Theoretic Transfoms",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -2979,6 +3147,7 @@
     {
       "Code": "Gud99b",
       "Title": "Number Theoretic Transfoms in Audio Processing",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -2992,6 +3161,7 @@
     {
       "Code": "Har07",
       "Title": "Optimizing Parallel Reduction in CUDA",
+      "Year": "2007",
       "Type": "presentation",
       "Authors": [
         {
@@ -3005,6 +3175,7 @@
     {
       "Code": "Har08",
       "Title": "A Cache-Friendly Truncated FFT",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -3018,6 +3189,7 @@
     {
       "Code": "Har11",
       "Title": "Faster arithmetic for number-theoretic transforms",
+      "Year": "2011",
       "Type": "presentation",
       "Authors": [
         {
@@ -3031,6 +3203,7 @@
     {
       "Code": "Har12",
       "Title": "Faster Arithmetic For Number-Theoretic Transforms",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -3044,6 +3217,7 @@
     {
       "Code": "Har12",
       "Title": "The Karatsuba integer middle product",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -3057,6 +3231,7 @@
     {
       "Code": "Har13",
       "Title": "Faster Arithmetic For Number-Theoretic Transforms",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -3070,6 +3245,7 @@
     {
       "Code": "HD83",
       "Title": "Longer NTT\u0027s With 2 as a Root of Unity",
+      "Year": "1983",
       "Type": "paper",
       "Authors": [
         {
@@ -3087,6 +3263,7 @@
     {
       "Code": "Heg92",
       "Title": "A self-sorting in-place Fast Fourier Transform algorithm suitable for vector ans parallel processing",
+      "Year": "1992",
       "Type": "paper",
       "Authors": [
         {
@@ -3100,6 +3277,7 @@
     {
       "Code": "HH11",
       "Title": "Generating and Searching Families of FFT Algorithms",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -3117,6 +3295,7 @@
     {
       "Code": "HH13",
       "Title": "Brute-Force Search of Fast Convolution Algorithms",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -3134,6 +3313,7 @@
     {
       "Code": "HH19",
       "Title": "Polynomial Multiplication Over Finite Fields in Time O(n log n)",
+      "Year": "2019",
       "Type": "paper",
       "Authors": [
         {
@@ -3141,16 +3321,17 @@
           "Last_Name": "Harvey"
         },
         {
-          "First_Name": "Joris",
-          "Last_Name": "Van Der Hoeven"
+          "First_Name": "Joris Van Der",
+          "Last_Name": "Hoeven"
         }
       ],
-      "Tags": "HH19 2019 paper 43-pages FFT Harvey Van Der Hoeven Polynomial Multiplication Over Finite Fields in Time O(n log n)",
+      "Tags": "HH19 2019 paper 43-pages FFT Harvey Hoeven Polynomial Multiplication Over Finite Fields in Time O(n log n)",
       "Url": null
     },
     {
       "Code": "HHL16",
       "Title": "Even Faster Integer Multiplication",
+      "Year": "2016",
       "Type": "paper",
       "Authors": [
         {
@@ -3172,6 +3353,7 @@
     {
       "Code": "HHL17",
       "Title": "Faster Polynomial Multiplication Over Finite Fields",
+      "Year": "2017",
       "Type": "paper",
       "Authors": [
         {
@@ -3193,6 +3375,7 @@
     {
       "Code": "Hig02",
       "Title": "Accuracy and Stability of Numerical Algorithms",
+      "Year": "2002",
       "Type": "book",
       "Authors": [
         {
@@ -3206,6 +3389,7 @@
     {
       "Code": "HIN15",
       "Title": "A Warp-synchronous Implementation for Multiple-length Multiplication on the GPU",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -3227,6 +3411,7 @@
     {
       "Code": "HJB84",
       "Title": "Gauss and the History of the Fast Fourier Transform",
+      "Year": "1984",
       "Type": "paper",
       "Authors": [
         {
@@ -3248,6 +3433,7 @@
     {
       "Code": "HK10",
       "Title": "GPU-Based FFT Computation for Multi-Gigabit WirelessHD Baseband Processing",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3265,6 +3451,7 @@
     {
       "Code": "HKN13",
       "Title": "Finding primitive elements in finite fields of small characteristic",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -3282,6 +3469,7 @@
     {
       "Code": "Hoc12a",
       "Title": "Dynamic Programming with CUDA Part I",
+      "Year": "2012",
       "Type": "book",
       "Authors": [
         {
@@ -3295,6 +3483,7 @@
     {
       "Code": "Hoc12b",
       "Title": "Dynamic Programming with CUDA Part II",
+      "Year": "2012",
       "Type": "book",
       "Authors": [
         {
@@ -3308,6 +3497,7 @@
     {
       "Code": "HR10",
       "Title": "An in-place truncated Fourier transform and applications to polynomial multiplication",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3325,6 +3515,7 @@
     {
       "Code": "HS86",
       "Title": "Data Parallel Algorithms",
+      "Year": "1986",
       "Type": "paper",
       "Authors": [
         {
@@ -3342,6 +3533,7 @@
     {
       "Code": "HZ11",
       "Title": "Short Division of Long Integers",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -3359,6 +3551,7 @@
     {
       "Code": "JB84",
       "Title": "An In-Order In-Place Radix-2 FFT",
+      "Year": "1984",
       "Type": "paper",
       "Authors": [
         {
@@ -3376,6 +3569,7 @@
     {
       "Code": "Jes80",
       "Title": "The Implementation of Fast Radix 2 Transforms on Array Processors",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -3389,6 +3583,7 @@
     {
       "Code": "JMS86",
       "Title": "FFT Algorithms for SIMD Parallel Processing Systems",
+      "Year": "1986",
       "Type": "paper",
       "Authors": [
         {
@@ -3410,6 +3605,7 @@
     {
       "Code": "Jon06b",
       "Title": "Decimation-in-time (DIT) Radix-2 FFT",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -3423,6 +3619,7 @@
     {
       "Code": "Jon06c",
       "Title": "Decimation-in-Frequency (DIF) Radix-2 FFT",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -3436,6 +3633,7 @@
     {
       "Code": "Jon06d",
       "Title": "Radix-4 FFT Algorithms",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -3449,6 +3647,7 @@
     {
       "Code": "Jon06e",
       "Title": "Split-radix FFT Algorithms",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -3462,6 +3661,7 @@
     {
       "Code": "Jon06f",
       "Title": "FFTs of prime length and Rader\u0027s conversion",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -3475,6 +3675,7 @@
     {
       "Code": "Jon07",
       "Title": "Efficient FFT Algorithm and Programming Tricks",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -3488,6 +3689,7 @@
     {
       "Code": "Ju80",
       "Title": "Implementation of Multiplication Modulo a Prime Number, with Applications to Number Theoretic Transforms",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -3501,6 +3703,7 @@
     {
       "Code": "Kak13",
       "Title": "The Number Theoretic Hilbert Transform",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -3514,6 +3717,7 @@
     {
       "Code": "KAK96",
       "Title": "Analyzing and Comparing Montgomery Multiplication Algorithms",
+      "Year": "1996",
       "Type": "paper",
       "Authors": [
         {
@@ -3535,6 +3739,7 @@
     {
       "Code": "KCK13",
       "Title": "On r-th Root Extraction Algorithm in Fq For q = lrs \u002B 1 (mod rs\u002B1) with 0  l  r and Small s",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -3556,6 +3761,7 @@
     {
       "Code": "KF14",
       "Title": "Multiple Precision Integer Multiplication on GPUs",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -3573,6 +3779,7 @@
     {
       "Code": "KHOWH10",
       "Title": "A Multi-GPU Spectrometer System for Real-time Wide Bandwidth Radio Signal Analysis",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3602,6 +3809,7 @@
     {
       "Code": "KL79",
       "Title": "Computing the Fast Fourier Transform on a Vector Computer",
+      "Year": "1979",
       "Type": "paper",
       "Authors": [
         {
@@ -3619,6 +3827,7 @@
     {
       "Code": "KM10",
       "Title": "On an Analogue to the Lucas-Lehmer-Riesel Test Using Elliptic Curves",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3636,6 +3845,7 @@
     {
       "Code": "Knu81",
       "Title": "The Art Of Computer Programming (volume 2) 2nd Edition",
+      "Year": "1981",
       "Type": "book",
       "Authors": [
         {
@@ -3649,6 +3859,7 @@
     {
       "Code": "KO12",
       "Title": "Approaches for the performance increasing of software implementation of integer multiplication in prime fields",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -3666,6 +3877,7 @@
     {
       "Code": "Ko\u00E794",
       "Title": "Montgomery reduction with even modulus",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -3679,6 +3891,7 @@
     {
       "Code": "Ko\u00E794b",
       "Title": "Modular Multiplication",
+      "Year": "1994",
       "Type": "presentation",
       "Authors": [
         {
@@ -3692,6 +3905,7 @@
     {
       "Code": "Kor14",
       "Title": "Multiplying large numbers and the Sch\u00F6nhage-Strassen Algorithm",
+      "Year": "2014",
       "Type": "presentation",
       "Authors": [
         {
@@ -3705,6 +3919,7 @@
     {
       "Code": "Kor15",
       "Title": "Multiplying Large Numbers and the Sch\u00F6nhage-Strassen Algorithm",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -3718,6 +3933,7 @@
     {
       "Code": "Kra70",
       "Title": "The Lucas-Lehmer Test for Mersenne Numbers",
+      "Year": "1970",
       "Type": "paper",
       "Authors": [
         {
@@ -3731,6 +3947,7 @@
     {
       "Code": "Kru09",
       "Title": "Fast Integer Multiplication with Sch\u00F6nhage-Strassen\u2019s Algorithm",
+      "Year": "2009",
       "Type": "presentation",
       "Authors": [
         {
@@ -3744,6 +3961,7 @@
     {
       "Code": "Kru10",
       "Title": "Speeding up Integer Multiplication and Factorization",
+      "Year": "2010",
       "Type": "thesis",
       "Authors": [
         {
@@ -3757,6 +3975,7 @@
     {
       "Code": "KSFE10",
       "Title": "Memory Saving Discrete Fourier Transform on GPUs",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3782,6 +4001,7 @@
     {
       "Code": "KT05",
       "Title": "Bipartite Modular Multiplication",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -3799,6 +4019,7 @@
     {
       "Code": "KU98",
       "Title": "Parallel FFT Algorithms with Reduced Communication Overhead",
+      "Year": "1998",
       "Type": "paper",
       "Authors": [
         {
@@ -3816,6 +4037,7 @@
     {
       "Code": "Lan15",
       "Title": "Arbitrary-Precision Arithmetics on the GPU",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -3829,6 +4051,7 @@
     {
       "Code": "LBG08",
       "Title": "Fast Computation of General Fourier Transforms on GPUs",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -3850,6 +4073,7 @@
     {
       "Code": "Lee10",
       "Title": "Debunking the 100X GPU vs CPU Myth - An Evaluation of Throughput Computing on CPU and GPU",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3863,6 +4087,7 @@
     {
       "Code": "Lee10",
       "Title": "Debunking the 100X GPU vs",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -3884,6 +4109,7 @@
     {
       "Code": "Lee10",
       "Title": "Debunking the 100X GPU vs",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -3897,6 +4123,7 @@
     {
       "Code": "Lei09",
       "Title": "Eine verst\u00E4ndliche Beschreibung des Sch\u00F6nhage-Strassen-Algorithmus",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -3910,6 +4137,7 @@
     {
       "Code": "Lei76",
       "Title": "A Simplified Binary Arithmetic for the Fermat Number Transform",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -3923,6 +4151,7 @@
     {
       "Code": "LGLZ12",
       "Title": "An Efficient Implementation of Double Precision 1-D FFT for GPUs Using CUDA",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -3948,6 +4177,7 @@
     {
       "Code": "Li12",
       "Title": "OpenCL Fast Fourier Transform",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -3961,6 +4191,7 @@
     {
       "Code": "LL00",
       "Title": "An Efficient Probable Prime Test for Numbers of the Forms 2n\u002B1 div 3",
+      "Year": "2000",
       "Type": "paper",
       "Authors": [
         {
@@ -3978,6 +4209,7 @@
     {
       "Code": "Loa92",
       "Title": "Computational Frameworks for the Fast Fourier Transform",
+      "Year": "1992",
       "Type": "book",
       "Authors": [
         {
@@ -3991,6 +4223,7 @@
     {
       "Code": "Loa93",
       "Title": "The FFT Via Matrix Factorizations",
+      "Year": "1993",
       "Type": "presentation",
       "Authors": [
         {
@@ -4004,6 +4237,7 @@
     {
       "Code": "Loa99",
       "Title": "The ubiquitous Kronecker product",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -4017,6 +4251,7 @@
     {
       "Code": "LRT76",
       "Title": "Fast Number Theoretic Transforms for Digital Filtering",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -4038,6 +4273,7 @@
     {
       "Code": "LSIG05",
       "Title": "A VLSI Array Processing Oriented Fast Fourier Transform Algorithm and Hardware Implementation",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -4063,6 +4299,7 @@
     {
       "Code": "LSMY10",
       "Title": "Streaming FFT Asynchronously on Graphics Processor Units",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -4088,6 +4325,7 @@
     {
       "Code": "LT11",
       "Title": "GMP implementation on CUDA - A Backward Compatible Design With Performance Tuning",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -4105,6 +4343,7 @@
     {
       "Code": "LZJLW11",
       "Title": "Automatic FFT Performance Tuning on OpenCL GPUs",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -4134,6 +4373,7 @@
     {
       "Code": "MA03",
       "Title": "The FFT on a GPU",
+      "Year": "2003",
       "Type": "paper",
       "Authors": [
         {
@@ -4151,6 +4391,7 @@
     {
       "Code": "MAF13",
       "Title": "Accelerating Fast Fourier Transform for Wideband Channelization",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -4172,6 +4413,7 @@
     {
       "Code": "Mat08",
       "Title": "Fast Fourier Transform Algorithms with Applications",
+      "Year": "2008",
       "Type": "thesis",
       "Authors": [
         {
@@ -4185,6 +4427,7 @@
     {
       "Code": "Mat08",
       "Title": "Fast Fourier Transform Algrotihms with Applications",
+      "Year": "2008",
       "Type": "thesis",
       "Authors": [
         {
@@ -4198,6 +4441,7 @@
     {
       "Code": "MATG12",
       "Title": "Algorithmic Strategies for Optimizing the Parallel Reduction Primitive in CUDA",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -4223,6 +4467,7 @@
     {
       "Code": "MCBIYV11",
       "Title": "Prospects for scalable 3D FFTs on heterogeneous exascale systems",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -4256,6 +4501,7 @@
     {
       "Code": "Mei",
       "Title": "Implementation and performance evaluation of parallel FFT algorithms",
+      "Year": "0",
       "Type": "paper",
       "Authors": [
         {
@@ -4269,6 +4515,7 @@
     {
       "Code": "Mer09a",
       "Title": "Faster Lucas-Lehmer test using integer arithmetic- Page 4",
+      "Year": "2009",
       "Type": "link",
       "Authors": [
         {
@@ -4282,6 +4529,7 @@
     {
       "Code": "Mer09b",
       "Title": "Faster Lucas-Lehmer test using integer arithmetic- Page 10",
+      "Year": "2009",
       "Type": "link",
       "Authors": [
         {
@@ -4295,6 +4543,7 @@
     {
       "Code": "Mer12",
       "Title": "some FFT Mul questions - mersenneforum",
+      "Year": "2012",
       "Type": "link",
       "Authors": [
         {
@@ -4308,6 +4557,7 @@
     {
       "Code": "MF13",
       "Title": "Enabling Efficient Intra-Warp Communication for Fourier Transforms in a Many-Core Architecture",
+      "Year": "2013",
       "Type": "poster",
       "Authors": [
         {
@@ -4325,6 +4575,7 @@
     {
       "Code": "MF14",
       "Title": "Towards a Performance-Portable FFT Library for Heterogeneous Computing",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -4342,6 +4593,7 @@
     {
       "Code": "Mon05",
       "Title": "Five, Six, and Seven-Term Karatsuba-Like Formulae",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -4355,6 +4607,7 @@
     {
       "Code": "Mon85",
       "Title": "Modular Multiplication Without Trial Division",
+      "Year": "1985",
       "Type": "paper",
       "Authors": [
         {
@@ -4368,6 +4621,7 @@
     {
       "Code": "Mor88",
       "Title": "Implementation of the Atkin-Goldwasser-Kilian Primality Testing Algorithm",
+      "Year": "1988",
       "Type": "paper",
       "Authors": [
         {
@@ -4381,6 +4635,7 @@
     {
       "Code": "MP10",
       "Title": "Fast polynomial multiplication on a GPU",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -4398,6 +4653,7 @@
     {
       "Code": "MS11",
       "Title": "Small Discrete Fourier Transforms on GPUs",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -4415,6 +4671,7 @@
     {
       "Code": "MS90",
       "Title": "An FFT Extension to the P-1 Factoring Algorithm",
+      "Year": "1990",
       "Type": "paper",
       "Authors": [
         {
@@ -4432,6 +4689,7 @@
     {
       "Code": "MX09",
       "Title": "FFT-based Dense Polynomial Arithmetic on Multi-cores",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -4449,6 +4707,7 @@
     {
       "Code": "Nic70",
       "Title": "Algbraic Theory of Finite Fourier Transforms",
+      "Year": "1970",
       "Type": "paper",
       "Authors": [
         {
@@ -4462,6 +4721,7 @@
     {
       "Code": "Nic70",
       "Title": "Algebraic Theory of Finite Fourier Transforms",
+      "Year": "1970",
       "Type": "paper",
       "Authors": [
         {
@@ -4475,6 +4735,7 @@
     {
       "Code": "NJRT12",
       "Title": "Implementation of 3D FFTs Across Multiple GPUs in Shared Memory Environments",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -4500,6 +4761,7 @@
     {
       "Code": "NM09",
       "Title": "Auto-Tuning 3-D FFT Library for CUDA GPUs",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -4517,6 +4779,7 @@
     {
       "Code": "NOEM08",
       "Title": "Bandwidth Intensive 3-D FFT kernel for GPUs using CUDA",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -4542,6 +4805,7 @@
     {
       "Code": "NQ78",
       "Title": "Computation of Convolutions and Discrete Fourier Transforms by Polynomial Transforms",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -4559,6 +4823,7 @@
     {
       "Code": "NQ79",
       "Title": "New Polynomial Tranform Algorithms for fast DFT Computation",
+      "Year": "1979",
       "Type": "paper",
       "Authors": [
         {
@@ -4576,6 +4841,7 @@
     {
       "Code": "NQ79",
       "Title": "New Polynomial Transform Algorithms for fast DFT Computation",
+      "Year": "1979",
       "Type": "paper",
       "Authors": [
         {
@@ -4593,6 +4859,7 @@
     {
       "Code": "NSM12",
       "Title": "Scalable Multi-GPU 3-D FFT for TSUBAME 2.0 Supercomputer",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -4614,6 +4881,7 @@
     {
       "Code": "Nus77",
       "Title": "Digital Filtering Using Pseudo Fermat Number Transforms",
+      "Year": "1977",
       "Type": "paper",
       "Authors": [
         {
@@ -4627,6 +4895,7 @@
     {
       "Code": "OCN02",
       "Title": "Integer Fast Fourier Transform",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -4648,6 +4917,7 @@
     {
       "Code": "OEMM08",
       "Title": "An efficient, model-based CPU-GPU heterogeneous FFT library",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -4673,6 +4943,7 @@
     {
       "Code": "Osg07",
       "Title": "The Fourier Transform and its Applications",
+      "Year": "2007",
       "Type": "book",
       "Authors": [
         {
@@ -4686,6 +4957,7 @@
     {
       "Code": "OSH05",
       "Title": "Assessment of Graphic Processing Units (GPUs) for Department of Defense (DoD) Digital Signal Processing (DSP) Applications",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -4707,6 +4979,7 @@
     {
       "Code": "PCLZI08",
       "Title": "Implementation of a Parallel Architecture for Radix-2 Fast Fourier Transform",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -4736,6 +5009,7 @@
     {
       "Code": "Pea68",
       "Title": "An Adaptation of the Fast Fourier Transform for Parallel Processing",
+      "Year": "1968",
       "Type": "paper",
       "Authors": [
         {
@@ -4749,6 +5023,7 @@
     {
       "Code": "Per02",
       "Title": "Rapid multiplication modulo the sum and difference of highly composite numbers",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -4762,6 +5037,7 @@
     {
       "Code": "PG05",
       "Title": "Fast Modular Reduction for Large Wordlengths via One Linear and One Cyclic Convolution",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -4779,6 +5055,7 @@
     {
       "Code": "Pol71",
       "Title": "The Fast Fourier Transform in a Finite Field",
+      "Year": "1971",
       "Type": "paper",
       "Authors": [
         {
@@ -4792,6 +5069,7 @@
     {
       "Code": "Pol74",
       "Title": "Theorems on factorization and primality testing",
+      "Year": "1974",
       "Type": "paper",
       "Authors": [
         {
@@ -4805,6 +5083,7 @@
     {
       "Code": "Pol76",
       "Title": "Implementation of Number Theoretic Transforms",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -4818,6 +5097,7 @@
     {
       "Code": "Pom02",
       "Title": "Primality Testing Variations on a theme of Lucas",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -4831,6 +5111,7 @@
     {
       "Code": "Pom81",
       "Title": "Recent Developments in Primality Testing",
+      "Year": "1981",
       "Type": "paper",
       "Authors": [
         {
@@ -4844,6 +5125,7 @@
     {
       "Code": "PTVF07",
       "Title": "Numerical Recipes",
+      "Year": "2007",
       "Type": "book",
       "Authors": [
         {
@@ -4869,6 +5151,7 @@
     {
       "Code": "PVCM09",
       "Title": "Discrete Fourier Transform on Multicore",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -4898,6 +5181,7 @@
     {
       "Code": "QLAT94",
       "Title": "Self-sorting In-Place FFT Algorithm with Minimum Working Space",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -4923,6 +5207,7 @@
     {
       "Code": "Rad72",
       "Title": "Discrete Convolutions via Mersenne Transforms",
+      "Year": "1972",
       "Type": "paper",
       "Authors": [
         {
@@ -4936,6 +5221,7 @@
     {
       "Code": "Ree75",
       "Title": "The use of finite fields and rings to compute convolutions",
+      "Year": "1975",
       "Type": "paper",
       "Authors": [
         {
@@ -4949,6 +5235,7 @@
     {
       "Code": "RGD02",
       "Title": "A new Superfast Bit Reversal Algorithm",
+      "Year": "2002",
       "Type": "paper",
       "Authors": [
         {
@@ -4970,6 +5257,7 @@
     {
       "Code": "Rib04",
       "Title": "The Little Book of Bigger Primes",
+      "Year": "2004",
       "Type": "book",
       "Authors": [
         {
@@ -4983,6 +5271,7 @@
     {
       "Code": "Rie69",
       "Title": "Lucasian Criteria for the Primality of N=h2n-1",
+      "Year": "1969",
       "Type": "paper",
       "Authors": [
         {
@@ -4996,6 +5285,7 @@
     {
       "Code": "RLT77",
       "Title": "A New Fast Algorithm for Computing a Complex Number Theoretic Transforms",
+      "Year": "1977",
       "Type": "paper",
       "Authors": [
         {
@@ -5017,6 +5307,7 @@
     {
       "Code": "RM09",
       "Title": "Optimizing Matrix Transpose in CUDA",
+      "Year": "2009",
       "Type": "presentation",
       "Authors": [
         {
@@ -5034,6 +5325,7 @@
     {
       "Code": "Rob13",
       "Title": "robertek-mi-pap \u00B7 GitHub",
+      "Year": "2013",
       "Type": "link",
       "Authors": [
         {
@@ -5047,6 +5339,7 @@
     {
       "Code": "Rob58",
       "Title": "A Report on Primes of the form k.2n\u002B1 and on Factors of Fermat Numbers",
+      "Year": "1958",
       "Type": "paper",
       "Authors": [
         {
@@ -5060,6 +5353,7 @@
     {
       "Code": "Roc99",
       "Title": "The FFT - an algorithm the whole family can use",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -5073,6 +5367,7 @@
     {
       "Code": "RT75",
       "Title": "The use of Finite Fields to Compute Convolutions",
+      "Year": "1975",
       "Type": "paper",
       "Authors": [
         {
@@ -5090,6 +5385,7 @@
     {
       "Code": "RT76",
       "Title": "Convolutions Over Residue Classes of Quadratic Integers",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -5107,6 +5403,7 @@
     {
       "Code": "RT77",
       "Title": "Fast Algorithms for Computing Mersenne-Prime Number-Theoretic Transforms",
+      "Year": "1977",
       "Type": "paper",
       "Authors": [
         {
@@ -5124,6 +5421,7 @@
     {
       "Code": "RT78a",
       "Title": "A Fast DFT Algorithm Using Complex Integer Transforms",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -5141,6 +5439,7 @@
     {
       "Code": "RT78b",
       "Title": "A Fast Complex Integer Convolution Using a Hybrid Transform",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -5158,6 +5457,7 @@
     {
       "Code": "RTGZ07",
       "Title": "Locality-Improved FFT Implementation on a Graphics Processor",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -5183,6 +5483,7 @@
     {
       "Code": "RTKH77",
       "Title": "Image Processing by Transforms Over a Finite Field",
+      "Year": "1977",
       "Type": "paper",
       "Authors": [
         {
@@ -5208,6 +5509,7 @@
     {
       "Code": "RTM78",
       "Title": "A New Algorithm for Computing Primitive Elements in GF(q2)",
+      "Year": "1978",
       "Type": "paper",
       "Authors": [
         {
@@ -5229,6 +5531,7 @@
     {
       "Code": "Sai93",
       "Title": "Generalized FFT Algorithm",
+      "Year": "1993",
       "Type": "paper",
       "Authors": [
         {
@@ -5242,6 +5545,7 @@
     {
       "Code": "Sai94",
       "Title": "Decimation-in-time-frequency FFT Algorithm",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
@@ -5255,6 +5559,7 @@
     {
       "Code": "SC83",
       "Title": "Very Fast Discrete Fourier Transform, using Number Theoretic Transform",
+      "Year": "1983",
       "Type": "paper",
       "Authors": [
         {
@@ -5272,6 +5577,7 @@
     {
       "Code": "SC84",
       "Title": "On the Computation of Discrete Fourier Transform using Fermat Number Transform",
+      "Year": "1984",
       "Type": "paper",
       "Authors": [
         {
@@ -5289,6 +5595,7 @@
     {
       "Code": "Sch12",
       "Title": "Multiplication and the Fast Fourier Transform",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -5302,6 +5609,7 @@
     {
       "Code": "SG12",
       "Title": "Implementation Study of FFT on Multi-Lane Vector Processors",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -5319,6 +5627,7 @@
     {
       "Code": "SH14",
       "Title": "Designing and Auto-Tuning Parallel 3-D FFT for Computation-Communication Overlap",
+      "Year": "2014",
       "Type": "paper",
       "Authors": [
         {
@@ -5336,6 +5645,7 @@
     {
       "Code": "SH63",
       "Title": "Fermat Numbers and Mersenne Numbers",
+      "Year": "1963",
       "Type": "paper",
       "Authors": [
         {
@@ -5353,6 +5663,7 @@
     {
       "Code": "Sho92",
       "Title": "Searching For Primitive Roots in Finite Fields",
+      "Year": "1992",
       "Type": "paper",
       "Authors": [
         {
@@ -5366,6 +5677,7 @@
     {
       "Code": "Sho96",
       "Title": "Computation of Irregular Primes up to Eight Million",
+      "Year": "1996",
       "Type": "paper",
       "Authors": [
         {
@@ -5379,6 +5691,7 @@
     {
       "Code": "Sil99",
       "Title": "Fast Multiplication in Finite Fields GF(2n)",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -5392,6 +5705,7 @@
     {
       "Code": "Sim04",
       "Title": "Symmetrical Factorization of the Fast Fourier Transform for Efficient Implementation",
+      "Year": "2004",
       "Type": "paper",
       "Authors": [
         {
@@ -5405,6 +5719,7 @@
     {
       "Code": "Sin67a",
       "Title": "A method for computing the fast Fourier transform with auxiliary memory and limited high-speed storage",
+      "Year": "1967",
       "Type": "paper",
       "Authors": [
         {
@@ -5418,6 +5733,7 @@
     {
       "Code": "Sin67b",
       "Title": "On computing the fast Fourier transform",
+      "Year": "1967",
       "Type": "paper",
       "Authors": [
         {
@@ -5431,6 +5747,7 @@
     {
       "Code": "Sin69",
       "Title": "An algorithm for computing the mixed radix fast Fourier transform",
+      "Year": "1969",
       "Type": "paper",
       "Authors": [
         {
@@ -5444,6 +5761,7 @@
     {
       "Code": "SKG11",
       "Title": "Vector Processor Customization for FFT",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -5465,6 +5783,7 @@
     {
       "Code": "SL05",
       "Title": "GPU Gems - Chapter 48",
+      "Year": "2005",
       "Type": "link",
       "Authors": [
         {
@@ -5482,6 +5801,7 @@
     {
       "Code": "Smi02",
       "Title": "Mathematics Of The Discrete Fourier Transform",
+      "Year": "2002",
       "Type": "book",
       "Authors": [
         {
@@ -5495,6 +5815,7 @@
     {
       "Code": "Sol99",
       "Title": "Generalized Mersenne Numbers",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -5508,6 +5829,7 @@
     {
       "Code": "Sou78",
       "Title": "Description and implementation of number theoretic transforms",
+      "Year": "1978",
       "Type": "thesis",
       "Authors": [
         {
@@ -5521,6 +5843,7 @@
     {
       "Code": "SP07",
       "Title": "FFTs of Arbitrary Dimensions on GPUs",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -5538,6 +5861,7 @@
     {
       "Code": "Spi03",
       "Title": "Implementing a GPU-Efficient FFT",
+      "Year": "2003",
       "Type": "presentation",
       "Authors": [
         {
@@ -5551,6 +5875,7 @@
     {
       "Code": "SRS10",
       "Title": "A Rigorous Extension of the Schonhage-Strassen Integer Multiplication Algorithm Using Complex Interval Arithmetic",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -5568,6 +5893,7 @@
     {
       "Code": "SS70",
       "Title": "Schnelle Multiplikation grosser Zahlen",
+      "Year": "1970",
       "Type": "paper",
       "Authors": [
         {
@@ -5585,6 +5911,7 @@
     {
       "Code": "Ste06",
       "Title": "Reduce Everything to Multiplication",
+      "Year": "2006",
       "Type": "presentation",
       "Authors": [
         {
@@ -5598,6 +5925,7 @@
     {
       "Code": "Sto66",
       "Title": "High-speed convolution and correlation",
+      "Year": "1966",
       "Type": "paper",
       "Authors": [
         {
@@ -5611,6 +5939,7 @@
     {
       "Code": "Sun13",
       "Title": "Fast In-place Transposition",
+      "Year": "2013",
       "Type": "presentation",
       "Authors": [
         {
@@ -5624,6 +5953,7 @@
     {
       "Code": "Swa84",
       "Title": "FFT algorithms for vector computers",
+      "Year": "1984",
       "Type": "paper",
       "Authors": [
         {
@@ -5637,6 +5967,7 @@
     {
       "Code": "Swa87",
       "Title": "Multiprocessor FFTs",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
@@ -5650,6 +5981,7 @@
     {
       "Code": "Sze11",
       "Title": "Sch\u00F6nhage-Strassen Algorithm with MapReduce for Multiplying Terabit Integers",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -5663,6 +5995,7 @@
     {
       "Code": "TA01",
       "Title": "Lesser Known FFT Algorithms",
+      "Year": "2001",
       "Type": "paper",
       "Authors": [
         {
@@ -5680,6 +6013,7 @@
     {
       "Code": "Tak06",
       "Title": "An Implementation of Parallel 1-D FFT Using SSE3 Instructions on Dual-Core Processors",
+      "Year": "2006",
       "Type": "paper",
       "Authors": [
         {
@@ -5693,6 +6027,7 @@
     {
       "Code": "Tak13",
       "Title": "Implementation of Parallel 1-D FFT on GPU Clusters",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -5706,6 +6041,7 @@
     {
       "Code": "TBT12",
       "Title": "On Some Results of Number Theoretic Transform (NTT) - Periodic Signals",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -5727,6 +6063,7 @@
     {
       "Code": "Tem83",
       "Title": "Self-sorting mixed-radix fast Fourier transforms",
+      "Year": "1983",
       "Type": "paper",
       "Authors": [
         {
@@ -5740,6 +6077,7 @@
     {
       "Code": "Tem91",
       "Title": "Self-Sorting In-Place Fast Fourier Transforms",
+      "Year": "1991",
       "Type": "paper",
       "Authors": [
         {
@@ -5753,6 +6091,7 @@
     {
       "Code": "TF03",
       "Title": "A Method for Fast Computation of the Fourier Transform over a Finite Field",
+      "Year": "2003",
       "Type": "paper",
       "Authors": [
         {
@@ -5770,6 +6109,7 @@
     {
       "Code": "Tha07",
       "Title": "Extended-Precision Floating-Point Numbers for GPU Computation",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -5783,6 +6123,7 @@
     {
       "Code": "Tha07",
       "Title": "Implementing a Fast Lucas-Lehmer Test on Programmable Graphics Hardware",
+      "Year": "2007",
       "Type": "paper",
       "Authors": [
         {
@@ -5796,6 +6137,7 @@
     {
       "Code": "Tha11",
       "Title": "Fast Mersenne Prime Testing on the GPU",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -5809,6 +6151,7 @@
     {
       "Code": "TLRW80",
       "Title": "On the Application of a Fast Polynomial Transform and the Chinese Remainder Theorem to Compute a Two-Dimensional Convolution",
+      "Year": "1980",
       "Type": "paper",
       "Authors": [
         {
@@ -5834,6 +6177,7 @@
     {
       "Code": "TMSS13",
       "Title": "Implementation of Fast Adder Using Redundant Binary Signed Digit",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -5871,6 +6215,7 @@
     {
       "Code": "TS91",
       "Title": "Ordered Fast Fourier Transforms on a Massively Parallel Hypercube Multiprocessor",
+      "Year": "1991",
       "Type": "paper",
       "Authors": [
         {
@@ -5888,6 +6233,7 @@
     {
       "Code": "Tsu09",
       "Title": "Primality Tests For 2kn - 1 Using Elliptic Curves",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -5901,6 +6247,7 @@
     {
       "Code": "UniZ\u00FCr08",
       "Title": "Sch\u00F6nhage and Strassen Fast Multiplication Algorithm",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [],
       "Tags": "UniZ\u00FCr08 2008 Paper 3-pages SSA Sch\u00F6nhage and Strassen Fast Multiplication Algorithm",
@@ -5909,6 +6256,7 @@
     {
       "Code": "vdH04",
       "Title": "The Truncated Fourier Transform and Applications",
+      "Year": "2004",
       "Type": "paper",
       "Authors": [
         {
@@ -5922,6 +6270,7 @@
     {
       "Code": "vdH05",
       "Title": "Notes on the Truncated Fourier Transform",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -5935,6 +6284,7 @@
     {
       "Code": "Vit06",
       "Title": "Parallel prefix adders",
+      "Year": "2006",
       "Type": "presentation",
       "Authors": [
         {
@@ -5948,6 +6298,7 @@
     {
       "Code": "VJMCPL15",
       "Title": "Fast Convolutional Nets With fbfft - A GPU Performance Evaluation",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -5981,6 +6332,7 @@
     {
       "Code": "VK08",
       "Title": "Fitting FFT onto the G80 Architecture",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -5998,6 +6350,7 @@
     {
       "Code": "VSBBR08",
       "Title": "Extended Number Theoretic Transforms",
+      "Year": "2008",
       "Type": "paper",
       "Authors": [
         {
@@ -6027,6 +6380,7 @@
     {
       "Code": "War12",
       "Title": "Montgomery Multiplication",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -6040,6 +6394,7 @@
     {
       "Code": "WFF11",
       "Title": "Floating Point and IEEE 754 Compliance for NVIDIA GPUs",
+      "Year": "2011",
       "Type": "paper",
       "Authors": [
         {
@@ -6057,6 +6412,7 @@
     {
       "Code": "Win76",
       "Title": "On computing the Discrete Fourier Transform",
+      "Year": "1976",
       "Type": "paper",
       "Authors": [
         {
@@ -6070,6 +6426,7 @@
     {
       "Code": "WJ12",
       "Title": "Optimized Strategies for Mapping Three-dimensional FFTs onto CUDA GPUs",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -6087,6 +6444,7 @@
     {
       "Code": "WJ13",
       "Title": "High Performance FFT Based Poisson Solver on a CPU-GPU Heterogeneous Platform",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -6104,6 +6462,7 @@
     {
       "Code": "WJB13",
       "Title": "An Optimized FFT-based Direct Poisson Solver on CUDA GPUs",
+      "Year": "2013",
       "Type": "paper",
       "Authors": [
         {
@@ -6125,6 +6484,7 @@
     {
       "Code": "Wol99",
       "Title": "On the discovery of the 38th known Mersenne prime",
+      "Year": "1999",
       "Type": "paper",
       "Authors": [
         {
@@ -6138,6 +6498,7 @@
     {
       "Code": "WS58",
       "Title": "A Logic for High-Speed Addition",
+      "Year": "1958",
       "Type": "paper",
       "Authors": [
         {
@@ -6155,6 +6516,7 @@
     {
       "Code": "Wu98",
       "Title": "Implementing the Radix-4 Decimation in Frequency (DIF) Fast Fourier Transform (FFT) Algorithm Using a TMS320C80 DSP",
+      "Year": "1998",
       "Type": "paper",
       "Authors": [
         {
@@ -6168,6 +6530,7 @@
     {
       "Code": "WYCW10",
       "Title": "Prime Factor Cyclotomic Fourier Transforms With Reduced Complexity Over Finite Fields",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -6193,6 +6556,7 @@
     {
       "Code": "XF09",
       "Title": "Inter-Block GPU Communication via Fast Barrier Synchronization",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -6210,6 +6574,7 @@
     {
       "Code": "YCKM10",
       "Title": "Reconfigurable Number Theoretic Transform Architectures for Cryptographic Applications",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -6235,6 +6600,7 @@
     {
       "Code": "YFL12",
       "Title": "Implementation of Mersenne primes solution algorithm based on CUDA",
+      "Year": "2012",
       "Type": "paper",
       "Authors": [
         {
@@ -6256,6 +6622,7 @@
     {
       "Code": "YKI05",
       "Title": "Vector-Parallel Algorithms for 1-Dimensional Fast Fourier Transform",
+      "Year": "2005",
       "Type": "paper",
       "Authors": [
         {
@@ -6277,6 +6644,7 @@
     {
       "Code": "ZC10",
       "Title": "GPUMP a Multiple-Precision Integer Library for GPUs",
+      "Year": "2010",
       "Type": "paper",
       "Authors": [
         {
@@ -6294,6 +6662,7 @@
     {
       "Code": "ZGH17",
       "Title": "Vectorizable Design and Implementation of FFT Based on Fused Multiply-add Architectures",
+      "Year": "2017",
       "Type": "paper",
       "Authors": [
         {
@@ -6315,6 +6684,7 @@
     {
       "Code": "Zha09",
       "Title": "Implementation of Multiple-precision Modular Multiplication on GPU",
+      "Year": "2009",
       "Type": "paper",
       "Authors": [
         {
@@ -6328,6 +6698,7 @@
     {
       "Code": "Zim91",
       "Title": "Multiplication rapide en LE_LISP",
+      "Year": "1991",
       "Type": "thesis",
       "Authors": [
         {
@@ -6341,6 +6712,7 @@
     {
       "Code": "Zim92",
       "Title": "An implementation of Sh\u00F6nhage\u0027s multiplication algorithm",
+      "Year": "1992",
       "Type": "paper",
       "Authors": [
         {
@@ -6354,6 +6726,7 @@
     {
       "Code": "ZPLJZ15",
       "Title": "Exploiting the Potential of GPUs for Modular Multiplication in ECC",
+      "Year": "2015",
       "Type": "paper",
       "Authors": [
         {
@@ -6383,6 +6756,7 @@
     {
       "Code": "Zur94",
       "Title": "More On Squaring and Multiplying Large Integers",
+      "Year": "1994",
       "Type": "paper",
       "Authors": [
         {
