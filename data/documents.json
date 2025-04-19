@@ -341,6 +341,34 @@
       "Url": null
     },
     {
+      "Code": "Atn23",
+      "Title": "A simpler alternative to Lucas-Lehmer-Riesel primality test",
+      "Year": "2023",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Pavel",
+          "Last_Name": "Atnashev"
+        }
+      ],
+      "Tags": "Atn23 2023 Paper 3-pages Primes Atnashev simpler alternative to Lucas-Lehmer-Riesel primality test",
+      "Url": null
+    },
+    {
+      "Code": "Atn23b",
+      "Title": "Multiplication, exponentiation and factorization of big numbers",
+      "Year": "2023",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Pavel",
+          "Last_Name": "Atnashev"
+        }
+      ],
+      "Tags": "Atn23b 2023 Paper 43-pages arithmetics Atnashev Multiplication exponentiation and factorization of big numbers",
+      "Url": null
+    },
+    {
       "Code": "Avi61",
       "Title": "Signed-Digit Number Representations for Fast Parallel Arithmetic",
       "Year": "1961",
@@ -1043,7 +1071,7 @@
     {
       "Code": "BZ10",
       "Title": "Modern Computer Arithmetic",
-      "Year": "2010",
+      "Year": "2009",
       "Type": "book",
       "Authors": [
         {
@@ -1055,7 +1083,7 @@
           "Last_Name": "Zimmermann"
         }
       ],
-      "Tags": "BZ10 2010 Book 239-pages Arithmetics Brent Zimmermann Modern Computer Arithmetic",
+      "Tags": "BZ10 2009 Book 239-pages Arithmetics Brent Zimmermann Modern Computer Arithmetic",
       "Url": null
     },
     {
@@ -1251,7 +1279,7 @@
           "Last_Name": "Welch"
         }
       ],
-      "Tags": "CCFHKLMNRW67 1967 Paper 11-pages FFT Cochran Cooley Favin Helms Kaenel Lang Maling Nelson Rader Welch What is the Fast Fourier Transform",
+      "Tags": "CCFHKLMNRW67 1967 Paper 11-pages FFT Stockham Cochran Cooley Favin Helms Kaenel Lang Maling Nelson Rader Welch What is the Fast Fourier Transform",
       "Url": null
     },
     {
@@ -1711,6 +1739,20 @@
       "Url": null
     },
     {
+      "Code": "Cra94",
+      "Title": "Topics in Advanced Scientific Computation",
+      "Year": "1994",
+      "Type": "book",
+      "Authors": [
+        {
+          "First_Name": "Richard",
+          "Last_Name": "Crandall"
+        }
+      ],
+      "Tags": "Cra94 1994 Book 340-pages FFT Crandall Topics in Advanced Scientific Computation",
+      "Url": null
+    },
+    {
       "Code": "Cra99",
       "Title": "Integer convolution via split-radix fast Galois transform",
       "Year": "1999",
@@ -1816,7 +1858,7 @@
     },
     {
       "Code": "CW80",
-      "Title": "Some Very Large Primes of the Form k.2m \u002B 1",
+      "Title": "Some Very Large Primes of the Form k.2m plus 1",
       "Year": "1980",
       "Type": "paper",
       "Authors": [
@@ -1829,7 +1871,7 @@
           "Last_Name": "Williams"
         }
       ],
-      "Tags": "CW80 1980 Paper 3-pages Primes Cormack Williams Some Very Large of the Form k.2m",
+      "Tags": "CW80 1980 Paper 3-pages Primes Cormack Williams Some Very Large of the Form k.2m plus",
       "Url": null
     },
     {
@@ -1848,6 +1890,20 @@
         }
       ],
       "Tags": "CW87 1987 Paper 31-pages SSA Coppersmith Winograd Matrix Multiplication via Arithmetic Progressions",
+      "Url": null
+    },
+    {
+      "Code": "DAV81",
+      "Title": "Kronecker Products and Shuffle Algebra",
+      "Year": "1981",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Marc",
+          "Last_Name": "Davio"
+        }
+      ],
+      "Tags": "DAV81 1981 paper 10-pages Algorithms Davio Kronecker Products and Shuffle Algebra",
       "Url": null
     },
     {
@@ -1899,6 +1955,42 @@
       "Url": null
     },
     {
+      "Code": "DD16",
+      "Title": "Shuffling Matrices, Kronecker Product and Discrete Fourier Transform",
+      "Year": "2016",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Daniele",
+          "Last_Name": "D\u0027Angeli"
+        },
+        {
+          "First_Name": "Alfredo",
+          "Last_Name": "Donno"
+        }
+      ],
+      "Tags": "DD16 2016 Paper 27-pages Arithmetics D\u0027Angeli Donno Shuffling Matrices Kronecker Product and Discrete Fourier Transform",
+      "Url": null
+    },
+    {
+      "Code": "DD17",
+      "Title": "Shuffling Matrices, Kronecker Product and Discrete Fourier Transform",
+      "Year": "2017",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Daniele",
+          "Last_Name": "D\u0027Angeli"
+        },
+        {
+          "First_Name": "Alfredo",
+          "Last_Name": "Donno"
+        }
+      ],
+      "Tags": "DD17 2017 Paper 27-pages FFT D\u0027Angeli Donno Shuffling Matrices Kronecker Product and Discrete Fourier Transform",
+      "Url": null
+    },
+    {
       "Code": "Dem13",
       "Title": "Shuffle Tips and Tricks",
       "Year": "2013",
@@ -1928,6 +2020,80 @@
         }
       ],
       "Tags": "DG01 2001 Paper 8-pages Primes Dubner Gallot Distribution of Generalized Fermat Prime Numbers",
+      "Url": null
+    },
+    {
+      "Code": "DGERR21",
+      "Title": "Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations",
+      "Year": "2021",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Tri",
+          "Last_Name": "Dao"
+        },
+        {
+          "First_Name": "Albert",
+          "Last_Name": "Gu"
+        },
+        {
+          "First_Name": "Matthew",
+          "Last_Name": "Eichhorn"
+        },
+        {
+          "First_Name": "Atri",
+          "Last_Name": "Rudra"
+        },
+        {
+          "First_Name": "Christopher",
+          "Last_Name": "Re"
+        }
+      ],
+      "Tags": "DGERR21 2021 Paper 23-pages FFT Dao Gu Eichhorn Rudra Re Learning Fast Algorithms for Linear Transforms Using Butterfly Factorizations",
+      "Url": null
+    },
+    {
+      "Code": "DGK83",
+      "Title": "The Mathematics of Perfect Shuffles",
+      "Year": "1983",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Persi",
+          "Last_Name": "Diaconis"
+        },
+        {
+          "First_Name": "R. L.",
+          "Last_Name": "Graham"
+        },
+        {
+          "First_Name": "William M.",
+          "Last_Name": "Kantor "
+        }
+      ],
+      "Tags": "DGK83 1983 Paper 22-pages Arithmetics Diaconis Graham Kantor  The Mathematics of Perfect Shuffles",
+      "Url": null
+    },
+    {
+      "Code": "DGK83",
+      "Title": "The Mathematics of Perfect Shuffles",
+      "Year": "1983",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Persi",
+          "Last_Name": "Diaconis"
+        },
+        {
+          "First_Name": "R. L.",
+          "Last_Name": "Graham"
+        },
+        {
+          "First_Name": "William M",
+          "Last_Name": "Kantor"
+        }
+      ],
+      "Tags": "DGK83 1983 Paper Arithmetics Diaconis Graham Kantor The Mathematics of Perfect Shuffles",
       "Url": null
     },
     {
@@ -2051,6 +2217,20 @@
       "Url": null
     },
     {
+      "Code": "Dru71",
+      "Title": "Kronecker Product Factorization of the FFT Matrix",
+      "Year": "1971",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "M.",
+          "Last_Name": "Drubin"
+        }
+      ],
+      "Tags": "Dru71 1971 Paper 4-pages FFT Drubin Kronecker Product Factorization of the Matrix",
+      "Url": null
+    },
+    {
       "Code": "DS15",
       "Title": "cuHE A Homomorphic Encryption Accelerator Library",
       "Year": "2015",
@@ -2067,6 +2247,15 @@
       ],
       "Tags": "DS15 2015 Paper 15-pages GPU Dai Sunar cuHE Homomorphic Encryption Accelerator Library",
       "Url": null
+    },
+    {
+      "Code": "DSP1",
+      "Title": "Fast Fourier Transform (FFT)",
+      "Year": null,
+      "Type": "link",
+      "Authors": [],
+      "Tags": "DSP1 Link 1-pager FFT Fast Fourier Transform (FFT)",
+      "Url": "https://www.cmlab.csie.ntu.edu.tw/cml/dsp/training/coding/transform/fft.html"
     },
     {
       "Code": "DV11",
@@ -2088,7 +2277,7 @@
     },
     {
       "Code": "DV78",
-      "Title": "Number Theoretic Transforms with modulus 2 2q- 2 q\u002B 1",
+      "Title": "Number Theoretic Transforms with modulus 2 2q- 2 q plus 1",
       "Year": "1978",
       "Type": "paper",
       "Authors": [
@@ -2101,7 +2290,7 @@
           "Last_Name": "Venetsanopoulos"
         }
       ],
-      "Tags": "DV78 1978 Paper 4-pages NTT Finite Fields Dubois Venetsanopoulos Number Theoretic Transforms with modulus 2q- q\u002B",
+      "Tags": "DV78 1978 Paper 4-pages NTT Finite Fields Dubois Venetsanopoulos Number Theoretic Transforms with modulus 2q- plus",
       "Url": null
     },
     {
@@ -2120,6 +2309,24 @@
         }
       ],
       "Tags": "DV78b 1978 Paper 8-pages NTT Finite Fields Dubois Venetsanopoulos The Discrete Fourier Transform Over Rings with Application to Fast Convolution",
+      "Url": null
+    },
+    {
+      "Code": "DV78c",
+      "Title": "A new Algorithm for the Radix-3 FFT",
+      "Year": "1978",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Eric",
+          "Last_Name": "Dubois"
+        },
+        {
+          "First_Name": "Anastasios N.",
+          "Last_Name": "Venetsanopoulos"
+        }
+      ],
+      "Tags": "DV78c 1978 Paper 4-pages FFT Dubois Venetsanopoulos new Algorithm for the Radix-3",
       "Url": null
     },
     {
@@ -2290,6 +2497,24 @@
         }
       ],
       "Tags": "Emm16 2016 Presentation 24-pages GPU Cuda Emmart High Performance Modular Exponentiation",
+      "Url": null
+    },
+    {
+      "Code": "ER83",
+      "Title": "Fast Transforms Algorithms, Analyses, Applications",
+      "Year": "1983",
+      "Type": "book",
+      "Authors": [
+        {
+          "First_Name": "Douglas F.",
+          "Last_Name": "Elliot"
+        },
+        {
+          "First_Name": "K. Ramamohan",
+          "Last_Name": "Rao"
+        }
+      ],
+      "Tags": "ER83 1983 Book 488-pages FFT Elliot Rao Fast Transforms Algorithms Analyses Applications",
       "Url": null
     },
     {
@@ -2673,6 +2898,20 @@
       "Url": null
     },
     {
+      "Code": "Gen68",
+      "Title": "Matrix Multiplication and Fast Fourier Transforms",
+      "Year": "1968",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "W. Morven",
+          "Last_Name": "Gentleman"
+        }
+      ],
+      "Tags": "Gen68 1968 Paper 5-pages FFT Gentleman Matrix Multiplication and Fast Fourier Transforms",
+      "Url": null
+    },
+    {
       "Code": "GG99",
       "Title": "Modern Computer Algebra",
       "Year": "1999",
@@ -3008,7 +3247,7 @@
     },
     {
       "Code": "GRT77",
-      "Title": "Integer Convolutions Over the Finite Field $GF( 3 . 2^n  \u002B 1 )$",
+      "Title": "Integer Convolutions Over the Finite Field GF( 3 . 2^n plus 1 )",
       "Year": "1977",
       "Type": "paper",
       "Authors": [
@@ -3025,7 +3264,7 @@
           "Last_Name": "Truong"
         }
       ],
-      "Tags": "GRT77 1977 paper 10-pages NTT Finite Fields Golomb Reed Truong Integer Convolutions Over the Field $GF( 2^n )$",
+      "Tags": "GRT77 1977 paper 10-pages NTT Finite Fields Golomb Reed Truong Integer Convolutions Over the Field GF( 2^n plus",
       "Url": null
     },
     {
@@ -3079,7 +3318,7 @@
       "Type": "paper",
       "Authors": [
         {
-          "First_Name": "W. M.",
+          "First_Name": "W. Morven",
           "Last_Name": "Gentleman"
         },
         {
@@ -3311,7 +3550,25 @@
       "Url": null
     },
     {
-      "Code": "HH19",
+      "Code": "HH19a",
+      "Title": "Faster Integer Multiplication Using Short Lattice Vectors",
+      "Year": "2019",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "David",
+          "Last_Name": "Harvey"
+        },
+        {
+          "First_Name": "Joris Van Der",
+          "Last_Name": "Hoeven"
+        }
+      ],
+      "Tags": "HH19a 2019 paper 20-pages FFT Harvey Hoeven Faster Integer Multiplication Using Short Lattice Vectors",
+      "Url": null
+    },
+    {
+      "Code": "HH19b",
       "Title": "Polynomial Multiplication Over Finite Fields in Time O(n log n)",
       "Year": "2019",
       "Type": "paper",
@@ -3325,7 +3582,33 @@
           "Last_Name": "Hoeven"
         }
       ],
-      "Tags": "HH19 2019 paper 43-pages FFT Harvey Hoeven Polynomial Multiplication Over Finite Fields in Time O(n log n)",
+      "Tags": "HH19b 2019 paper 43-pages FFT Harvey Hoeven Polynomial Multiplication Over Finite Fields in Time O(n log n)",
+      "Url": null
+    },
+    {
+      "Code": "HHKP23",
+      "Title": "Certifying Giant Nonprimes",
+      "Year": "2023",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Charlotte",
+          "Last_Name": "Hoffmann"
+        },
+        {
+          "First_Name": "Pavel",
+          "Last_Name": "Hub\u00E1cek"
+        },
+        {
+          "First_Name": "Chethan",
+          "Last_Name": "Kamath"
+        },
+        {
+          "First_Name": "Krzysztof",
+          "Last_Name": "Pietrzak"
+        }
+      ],
+      "Tags": "HHKP23 2023 Paper 25-pages Primes Hoffmann Hub\u00E1cek Kamath Pietrzak Certifying Giant Nonprimes",
       "Url": null
     },
     {
@@ -3339,7 +3622,7 @@
           "Last_Name": "Harvey"
         },
         {
-          "First_Name": "Joris van der",
+          "First_Name": "Joris Van Der",
           "Last_Name": "Hoeven"
         },
         {
@@ -3549,6 +3832,24 @@
       "Url": null
     },
     {
+      "Code": "JB82",
+      "Title": "The Design of Optimal DFT Algorithms Using Dynamic Programming",
+      "Year": "1982",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "H.",
+          "Last_Name": "Johnson"
+        },
+        {
+          "First_Name": "C.",
+          "Last_Name": "Burrus"
+        }
+      ],
+      "Tags": "JB82 1982 Paper 4-pages FFT Johnson Burrus The Design of Optimal DFT Algorithms Using Dynamic Programming",
+      "Url": null
+    },
+    {
       "Code": "JB84",
       "Title": "An In-Order In-Place Radix-2 FFT",
       "Year": "1984",
@@ -3701,6 +4002,24 @@
       "Url": null
     },
     {
+      "Code": "JW00",
+      "Title": "A Fast Recursive Bit-reversal Algorithm",
+      "Year": "2000",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "J.",
+          "Last_Name": "Jeong"
+        },
+        {
+          "First_Name": "W.J.",
+          "Last_Name": "Williams"
+        }
+      ],
+      "Tags": "JW00 2000 paper 4-pages Algorithms Jeong Williams Fast Recursive Bit-reversal Algorithm",
+      "Url": null
+    },
+    {
       "Code": "Kak13",
       "Title": "The Number Theoretic Hilbert Transform",
       "Year": "2013",
@@ -3737,8 +4056,26 @@
       "Url": null
     },
     {
+      "Code": "KB22",
+      "Title": "Minimizing communication in the multidimensional FFT",
+      "Year": "2022",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Thomas",
+          "Last_Name": "Koopman"
+        },
+        {
+          "First_Name": "Rob H.",
+          "Last_Name": "Bisseling"
+        }
+      ],
+      "Tags": "KB22 2022 Paper 16-pages FFT Koopman Bisseling Minimizing communication in the multidimensional",
+      "Url": null
+    },
+    {
       "Code": "KCK13",
-      "Title": "On r-th Root Extraction Algorithm in Fq For q = lrs \u002B 1 (mod rs\u002B1) with 0  l  r and Small s",
+      "Title": "On r-th Root Extraction Algorithm in Fq",
       "Year": "2013",
       "Type": "paper",
       "Authors": [
@@ -3755,7 +4092,7 @@
           "Last_Name": "Kwon"
         }
       ],
-      "Tags": "KCK13 2013 Paper 10-pages NTT Finite Fields Koo Cho Kwon On r-th Root Extraction Algorithm in Fq For lrs (mod rs\u002B1) with and Small",
+      "Tags": "KCK13 2013 Paper 10-pages NTT Finite Fields Koo Cho Kwon On r-th Root Extraction Algorithm in Fq",
       "Url": null
     },
     {
@@ -3903,6 +4240,20 @@
       "Url": null
     },
     {
+      "Code": "Kol77",
+      "Title": "A Prime Factor FFT Algorithm Using High-speed Convolution",
+      "Year": "1977",
+      "Type": "thesis",
+      "Authors": [
+        {
+          "First_Name": "D.",
+          "Last_Name": "Kolba"
+        }
+      ],
+      "Tags": "Kol77 1977 Thesis FFT Kolba Prime Factor Algorithm Using High-speed Convolution",
+      "Url": null
+    },
+    {
       "Code": "Kor14",
       "Title": "Multiplying large numbers and the Sch\u00F6nhage-Strassen Algorithm",
       "Year": "2014",
@@ -3928,6 +4279,24 @@
         }
       ],
       "Tags": "Kor15 2015 paper 51-pages SSA Kortekaas Multiplying Large Numbers and the Sch\u00F6nhage-Strassen Algorithm",
+      "Url": null
+    },
+    {
+      "Code": "KP77",
+      "Title": "A Prime Factor FFT Algorithm Using High-speed Convolution",
+      "Year": "1977",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "D.",
+          "Last_Name": "Kolba"
+        },
+        {
+          "First_Name": "T.",
+          "Last_Name": "Parks"
+        }
+      ],
+      "Tags": "KP77 1977 Paper 14-pages FFT Kolba Parks Prime Factor Algorithm Using High-speed Convolution",
       "Url": null
     },
     {
@@ -4032,6 +4401,20 @@
         }
       ],
       "Tags": "KU98 1998 Paper 31-pages FFT Karner Ueberhuber Parallel Algorithms with Reduced Communication Overhead",
+      "Url": null
+    },
+    {
+      "Code": "Kuc18",
+      "Title": "A Proof of the Lucas-Lehmer Test and its Variations by Using a Singular Cubic Curve",
+      "Year": "2018",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "\u00D6mer",
+          "Last_Name": "K\u00FC\u00E7\u00FCksakall"
+        }
+      ],
+      "Tags": "Kuc18 2018 Paper 7-pages Primes K\u00FC\u00E7\u00FCksakall Proof of the Lucas-Lehmer Test and its Variations by Using Singular Cubic Curve",
       "Url": null
     },
     {
@@ -4190,7 +4573,7 @@
     },
     {
       "Code": "LL00",
-      "Title": "An Efficient Probable Prime Test for Numbers of the Forms 2n\u002B1 div 3",
+      "Title": "An Efficient Probable Prime Test for Numbers of the Forms 2n 1 div 3",
       "Year": "2000",
       "Type": "paper",
       "Authors": [
@@ -4203,7 +4586,7 @@
           "Last_Name": "Lifchitz"
         }
       ],
-      "Tags": "LL00 2000 Paper 5-pages Primes Lifchitz An Efficient Probable Prime Test for Numbers of the Forms 2n\u002B1 div",
+      "Tags": "LL00 2000 Paper 5-pages Primes Lifchitz An Efficient Probable Prime Test for Numbers of the Forms 2n div",
       "Url": null
     },
     {
@@ -4250,7 +4633,7 @@
     },
     {
       "Code": "LRT76",
-      "Title": "Fast Number Theoretic Transforms for Digital Filtering",
+      "Title": "Fast Number-Theoretic Transforms for Digital Filtering",
       "Year": "1976",
       "Type": "paper",
       "Authors": [
@@ -4267,7 +4650,7 @@
           "Last_Name": "Truong"
         }
       ],
-      "Tags": "LRT76 1976 Paper 3-pages NTT Finite Fields Liu Reed Truong Fast Number Theoretic Transforms for Digital Filtering",
+      "Tags": "LRT76 1976 Paper 3-pages NTT Finite Fields Liu Reed Truong Fast Number-Theoretic Transforms for Digital Filtering",
       "Url": null
     },
     {
@@ -4425,20 +4808,6 @@
       "Url": null
     },
     {
-      "Code": "Mat08",
-      "Title": "Fast Fourier Transform Algrotihms with Applications",
-      "Year": "2008",
-      "Type": "thesis",
-      "Authors": [
-        {
-          "First_Name": "Todd",
-          "Last_Name": "Mateer"
-        }
-      ],
-      "Tags": "Mat08 2008 Thesis 340-pages FFT Mateer Fast Fourier Transform Algrotihms with Applications",
-      "Url": null
-    },
-    {
       "Code": "MATG12",
       "Title": "Algorithmic Strategies for Optimizing the Parallel Reduction Primitive in CUDA",
       "Year": "2012",
@@ -4499,9 +4868,9 @@
       "Url": null
     },
     {
-      "Code": "Mei",
+      "Code": "Mei03",
       "Title": "Implementation and performance evaluation of parallel FFT algorithms",
-      "Year": "0",
+      "Year": "2003",
       "Type": "paper",
       "Authors": [
         {
@@ -4509,7 +4878,7 @@
           "Last_Name": "Meiyappan"
         }
       ],
-      "Tags": "Mei 0 Paper 14-pages FFT Meiyappan Implementation and performance evaluation of parallel algorithms",
+      "Tags": "Mei03 2003 Paper 14-pages FFT Meiyappan Implementation and performance evaluation of parallel algorithms",
       "Url": null
     },
     {
@@ -4706,20 +5075,6 @@
     },
     {
       "Code": "Nic70",
-      "Title": "Algbraic Theory of Finite Fourier Transforms",
-      "Year": "1970",
-      "Type": "paper",
-      "Authors": [
-        {
-          "First_Name": "Peter J.",
-          "Last_Name": "Nicholson"
-        }
-      ],
-      "Tags": "Nic70 1970 Paper 24-pages NTT Finite Fields Nicholson Algbraic Theory of Fourier Transforms",
-      "Url": null
-    },
-    {
-      "Code": "Nic70",
       "Title": "Algebraic Theory of Finite Fourier Transforms",
       "Year": "1970",
       "Type": "paper",
@@ -4800,6 +5155,24 @@
         }
       ],
       "Tags": "NOEM08 2008 Paper 11-pages GPU Nukada Ogata Endo Matsuoka Bandwidth Intensive 3-D FFT kernel for GPUs using CUDA",
+      "Url": null
+    },
+    {
+      "Code": "NP06",
+      "Title": "Five-step FFT algorithm with reduced computational complexity",
+      "Year": "2006",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Rami",
+          "Last_Name": "Al Na\u0027mneh"
+        },
+        {
+          "First_Name": "W. David",
+          "Last_Name": "Pan"
+        }
+      ],
+      "Tags": "NP06 2006 paper 6-pages FFT Al Na\u0027mneh Pan Five-step algorithm with reduced computational complexity",
       "Url": null
     },
     {
@@ -4885,11 +5258,25 @@
       "Type": "paper",
       "Authors": [
         {
-          "First_Name": "H.",
+          "First_Name": "Henri J.",
           "Last_Name": "Nussbaumer"
         }
       ],
       "Tags": "Nus77 1977 paper 5-pages NTT Finite Fields FNT Nussbaumer Digital Filtering Using Pseudo Fermat Number Transforms",
+      "Url": null
+    },
+    {
+      "Code": "Nus82",
+      "Title": "Fast Fourier Transform and Convolution Algorithms",
+      "Year": "1982",
+      "Type": "book",
+      "Authors": [
+        {
+          "First_Name": "Henri J.",
+          "Last_Name": "Nussbaumer"
+        }
+      ],
+      "Tags": "Nus82 1982 Book 286-pages FFT Nussbaumer Fast Fourier Transform and Convolution Algorithms",
       "Url": null
     },
     {
@@ -5053,6 +5440,82 @@
       "Url": null
     },
     {
+      "Code": "Pie18",
+      "Title": "Simple Verifiable Delay Functions",
+      "Year": "2018",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Krzysztof",
+          "Last_Name": "Pietrzak"
+        }
+      ],
+      "Tags": "Pie18 2018 Paper 20-pages Primes Pietrzak Simple Verifiable Delay Functions",
+      "Url": null
+    },
+    {
+      "Code": "PMJPVS05",
+      "Title": "SPIRAL Code Generation for DSP Transforms",
+      "Year": "2005",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "M.",
+          "Last_Name": "Puschel"
+        },
+        {
+          "First_Name": "J.M.F.",
+          "Last_Name": "Moura"
+        },
+        {
+          "First_Name": "J.R.",
+          "Last_Name": "Johnson"
+        },
+        {
+          "First_Name": "D.",
+          "Last_Name": "Padua"
+        },
+        {
+          "First_Name": "M.M.",
+          "Last_Name": "Veloso"
+        },
+        {
+          "First_Name": "B.W.",
+          "Last_Name": "Singer"
+        },
+        {
+          "First_Name": " Jianxin",
+          "Last_Name": "Xiong"
+        },
+        {
+          "First_Name": "F.",
+          "Last_Name": "Franchetti"
+        },
+        {
+          "First_Name": "A.",
+          "Last_Name": "Gacic"
+        },
+        {
+          "First_Name": "Y.",
+          "Last_Name": "Voronenko"
+        },
+        {
+          "First_Name": "K.",
+          "Last_Name": "Chen"
+        },
+        {
+          "First_Name": "R.W.",
+          "Last_Name": "Johnson"
+        },
+        {
+          "First_Name": "N.",
+          "Last_Name": "Rizzolo"
+        }
+      ],
+      "Tags": "PMJPVS05 2005 Paper 44-pages FFT Puschel Moura Johnson Padua Veloso Singer Xiong Franchetti Gacic Voronenko Chen Rizzolo SPIRAL Code Generation for DSP Transforms",
+      "Url": null
+    },
+    {
       "Code": "Pol71",
       "Title": "The Fast Fourier Transform in a Finite Field",
       "Year": "1971",
@@ -5168,14 +5631,14 @@
         },
         {
           "First_Name": "Srinivas",
-          "Last_Name": "Chellapp"
+          "Last_Name": "Chellappa"
         },
         {
           "First_Name": "Jos\u00E9 M.F.",
           "Last_Name": "Moura"
         }
       ],
-      "Tags": "PVCM09 2009 Paper 13-pages GPU Franchetti P\u00FCschel Voronenko Chellapp Moura Discrete Fourier Transform on Multicore",
+      "Tags": "PVCM09 2009 Paper 13-pages GPU Franchetti P\u00FCschel Voronenko Chellappa Moura Discrete Fourier Transform on Multicore",
       "Url": null
     },
     {
@@ -5202,6 +5665,20 @@
         }
       ],
       "Tags": "QLAT94 1994 Paper 2-pages FFT Qian Lu An Tolimieri Self-sorting In-Place Algorithm with Minimum Working Space",
+      "Url": null
+    },
+    {
+      "Code": "Rad68",
+      "Title": "Discrete Fourier Transforms When the Number of Data Samples is Prime",
+      "Year": "1968",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Charles M.",
+          "Last_Name": "Rader"
+        }
+      ],
+      "Tags": "Rad68 1968 Paper 2-pages FFT Rader Discrete Fourier Transforms When the Number of Data Samples is Prime",
       "Url": null
     },
     {
@@ -5338,7 +5815,7 @@
     },
     {
       "Code": "Rob58",
-      "Title": "A Report on Primes of the form k.2n\u002B1 and on Factors of Fermat Numbers",
+      "Title": "A Report on Primes of the form k.2n plus 1 and on Factors of Fermat Numbers",
       "Year": "1958",
       "Type": "paper",
       "Authors": [
@@ -5347,7 +5824,7 @@
           "Last_Name": "Robinson"
         }
       ],
-      "Tags": "Rob58 1958 Paper 9-pages Primes Robinson Report on of the form k.2n\u002B1 and Factors Fermat Numbers",
+      "Tags": "Rob58 1958 Paper 9-pages Primes Robinson Report on of the form k.2n plus and Factors Fermat Numbers",
       "Url": null
     },
     {
@@ -5362,6 +5839,34 @@
         }
       ],
       "Tags": "Roc99 1999 Paper 9-pages FFT Rockmore The an algorithm the whole family can use",
+      "Url": null
+    },
+    {
+      "Code": "Ros80",
+      "Title": "Matrix Identities of the Fast Fourier Transform",
+      "Year": "1980",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Donald J.",
+          "Last_Name": "Rose "
+        }
+      ],
+      "Tags": "Ros80 1980 Paper 21-pages FFT Rose  Matrix Identities of the Fast Fourier Transform",
+      "Url": null
+    },
+    {
+      "Code": "Ros80",
+      "Title": "Matrix Identities of the Fast Fourier Transform",
+      "Year": "1980",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Donald J.",
+          "Last_Name": "Rose"
+        }
+      ],
+      "Tags": "Ros80 1980 Paper 21-pages FFT Rose Matrix Identities of the Fast Fourier Transform",
       "Url": null
     },
     {
@@ -6011,6 +6516,20 @@
       "Url": null
     },
     {
+      "Code": "Tak03",
+      "Title": "A parallel 1-D FFT algorithm for the Hitachi SR8000",
+      "Year": "2003",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Daisuke",
+          "Last_Name": "Takahashi"
+        }
+      ],
+      "Tags": "Tak03 2003 Paper 12-pages FFT Takahashi parallel 1-D algorithm for the Hitachi SR8000",
+      "Url": null
+    },
+    {
       "Code": "Tak06",
       "Title": "An Implementation of Parallel 1-D FFT Using SSE3 Instructions on Dual-Core Processors",
       "Year": "2006",
@@ -6149,6 +6668,20 @@
       "Url": null
     },
     {
+      "Code": "The69",
+      "Title": "A Matrix Version of the Fast Fourier Transform",
+      "Year": "1969",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "F.",
+          "Last_Name": "Theilheimer"
+        }
+      ],
+      "Tags": "The69 1969 Paper 4-pages FFT Theilheimer Matrix Version of the Fast Fourier Transform",
+      "Url": null
+    },
+    {
       "Code": "TLRW80",
       "Title": "On the Application of a Fast Polynomial Transform and the Chinese Remainder Theorem to Compute a Two-Dimensional Convolution",
       "Year": "1980",
@@ -6172,6 +6705,28 @@
         }
       ],
       "Tags": "TLRW80 1980 Paper 16-pages NTT Finite Fields Truong Lipes Reed Wu On the Application of Fast Polynomial Transform and Chinese Remainder Theorem to Compute Two-Dimensional Convolution",
+      "Url": null
+    },
+    {
+      "Code": "TMC89",
+      "Title": "Algorithms for Discrete Fourier Transform and Convolution",
+      "Year": "1989",
+      "Type": "book",
+      "Authors": [
+        {
+          "First_Name": "R.",
+          "Last_Name": "Tolimieri"
+        },
+        {
+          "First_Name": "Myoung",
+          "Last_Name": "An"
+        },
+        {
+          "First_Name": "Chao",
+          "Last_Name": "Lu"
+        }
+      ],
+      "Tags": "TMC89 1989 Book 363-pages FFT Tolimieri An Lu Algorithms for Discrete Fourier Transform and Convolution",
       "Url": null
     },
     {
@@ -6213,6 +6768,20 @@
       "Url": null
     },
     {
+      "Code": "Too63",
+      "Title": "The Complexity of a Scheme of Functional Elements Realizing The Multiplication of Integers",
+      "Year": "1963",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "A.L.",
+          "Last_Name": "Toom"
+        }
+      ],
+      "Tags": "Too63 1963 Paper 3-pages Multiplication Toom The Complexity of Scheme Functional Elements Realizing Integers",
+      "Url": null
+    },
+    {
       "Code": "TS91",
       "Title": "Ordered Fast Fourier Transforms on a Massively Parallel Hypercube Multiprocessor",
       "Year": "1991",
@@ -6242,15 +6811,6 @@
         }
       ],
       "Tags": "Tsu09 2009 Paper 8-pages Primes Tsumura Primality Tests For 2kn Using Elliptic Curves",
-      "Url": null
-    },
-    {
-      "Code": "UniZ\u00FCr08",
-      "Title": "Sch\u00F6nhage and Strassen Fast Multiplication Algorithm",
-      "Year": "2008",
-      "Type": "paper",
-      "Authors": [],
-      "Tags": "UniZ\u00FCr08 2008 Paper 3-pages SSA Sch\u00F6nhage and Strassen Fast Multiplication Algorithm",
       "Url": null
     },
     {
@@ -6421,6 +6981,20 @@
         }
       ],
       "Tags": "Win76 1976 Paper 2-pages FFT Winograd On computing the Discrete Fourier Transform",
+      "Url": null
+    },
+    {
+      "Code": "Win78",
+      "Title": "On Computing the Discrete Fourier Transform",
+      "Year": "1978",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": "Shmuel",
+          "Last_Name": "Winograd"
+        }
+      ],
+      "Tags": "Win78 1978 Paper 25-pages FFT Winograd On Computing the Discrete Fourier Transform",
       "Url": null
     },
     {
