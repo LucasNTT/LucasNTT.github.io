@@ -1,1 +1,1 @@
-All information on <a href="https://lucasntt.github.io/">LucasNTT website</a>.
+All information on <a href="https://lucasntt.github.io/" target="_blank">LucasNTT website</a>.
