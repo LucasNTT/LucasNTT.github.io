@@ -1,4 +1,13 @@
-﻿// Section: global objects
+﻿//Copyright (C) 2025 Guillaume P. Hérault (https://github.com/LucasNTT/LucasNTT.github.io)
+//
+//Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+//in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+//copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
+//
+//The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+//
+
+// Section: global objects
 var params = {
 	N: 0,		// total number of elements (a power of two)
 	log_N: 0,	// number of steps (N = 2^log_N)
