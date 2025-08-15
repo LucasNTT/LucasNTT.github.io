@@ -1,0 +1,127 @@
+﻿<!--
+Copyright (C) 2025 Guillaume P. Hérault (https://github.com/LucasNTT/LucasNTT.github.io)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>LucasNTT</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="lib/tagsInput/jquery.tagsinput-revisited.css" />
+		<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+	</head>
+	<body class="subpage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<section id="header">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+
+							<!-- Logo -->
+							<h1><a href="index.html" id="logo">LucasNTT</a></h1>
+
+							<!-- Nav -->
+							<nav id="nav">
+								<a href="index.html">Home</a>
+								<a href="download.html">Download</a>
+								<a href="documents.html">Documents</a>
+								<a href="library.html">Library</a>
+								<a href="calculator.html">Online Calculators</a>
+								<a href="about.html">About</a>
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div id="banner">
+					<div class="container">
+						<div class="row">
+							<div class="col-6 col-12-medium">
+
+								<p>Search over more than 400 documents!</p>
+								<form id="form">
+									<label>Filter the list by tags:</label>
+									<div id="inputtag">
+									</div>
+								</form>
+
+							</div>
+							<div class="col-6 col-12-medium imp-medium">
+
+								<!-- Banner Image -->
+									<a href="#" class="bordered-feature-image"><img src="images/library.jpg" alt="" /></a>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Content -->
+			<section id="content">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+
+							<section>
+								<header>
+									<h2 id="doc-count"></h2>
+								</header>
+								<ul class="quote-list" id="doc-list">
+								</ul>
+							</section>
+							<div class="row aln-right"><a onclick="DocViewer.Permalink()" href="#">Permalink to this page</a></div>
+
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Footer -->
+			<section id="footer">
+				<div class="container">
+					<div class="row">
+						<section>
+							<h2>Copyright</h2>
+							<p>
+								Many of the listed documents are subject to copyright, either by their editor or by their publishing journal.
+								<br>
+								As a reader, you have different options to get the full document. First check on the internet with the Google Scholar link if the document 
+								is restricted or freely available. If this is not the case, check with your academic 
+								institution (school, university) if you can have institutional credentials to download the document on the 
+								Editor's or Journal's official website. Otherwise please consider purchasing the document.
+							</p>
+						</section>
+					</div>
+				</div>
+			</section>
+
+			<!-- Copyright -->
+			<div id="copyright">
+				&copy; LucasNTT. All rights reserved. | 
+				Design from <a href="http://html5up.net">HTML5 UP</a> | 
+				Tags Input from <a href="https://github.com/underovsky/jquery-tagsinput-revisited">Krzysztof Rusnarczyk on github</a> | 
+				Image of the library from <a href="https://unsplash.com/@alfonsmc10">Alfons Morales on unsplash</a> | 
+				Icons by myself
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		<script src="lib/tagsInput/jquery.tagsinput-revisited.js"></script>
+		<script src="js/library/docviewer.js"></script>
+	</body>
+</html>

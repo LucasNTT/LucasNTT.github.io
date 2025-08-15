@@ -1,0 +1,128 @@
+﻿<!--
+Copyright (C) 2025 Guillaume P. Hérault (https://github.com/LucasNTT/LucasNTT.github.io)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>LucasNTT</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+	</head>
+	<body class="subpage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<section id="header">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+
+							<!-- Logo -->
+							<h1><a href="index.html" id="logo">LucasNTT</a></h1>
+
+							<!-- Nav -->
+							<nav id="nav">
+								<a href="index.html">Home</a>
+								<a href="download.html">Download</a>
+								<a href="documents.html">Documents</a>
+								<a href="library.html">Library</a>
+								<a href="calculator.html">Online Calculators</a>
+								<a href="about.html">About</a>
+							</nav>
+
+						</div>
+					</div>
+				</div>
+				<div id="banner">
+					<div class="container">
+						<div class="row">
+							<div class="col-6 col-12-medium">
+								<p>Online Tools and Calculators</p>
+								<a href="nttanalysis.html" class="button-large">NTT Analysis</a>
+								&nbsp;
+								<a href="butterfly.html" class="button-large">Butterfly Diagrams</a>
+							</div>
+							<div class="col-6 col-12-medium imp-medium">
+								<!-- Banner Image -->
+								<a href="#" class="bordered-feature-image"><img src="images/calculator.jpg" alt="" /></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Content -->
+			<section id="content">
+				<div class="container">
+					<div class="row">
+						<div class="col-4 col-12-medium">
+							<section>
+								<h2>NTT Analysis</h2>
+								This tool tries to evaluate which NTT can be performed with the provided modulus. Please enter a prime modulus below.
+								You can enter either a number, or a calculator formula such as&ensp;<span style="font-family: sans-serif;font-size: 14px;">2^16 + 1</span>
+								<br>
+								<br>
+								<form id="form">
+									<label>Enter a modulus p:</label>
+									<input id="modulus" type="text" value="2^64 - 2^32 + 1" />
+								</form>
+								<br>
+								<a href="#proceed"><div class="button-large scrolly" onclick="AnalyzeNTT.Process();">Analyze NTT</div></a>
+							</section>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<section id="proceed" style="visibility:hidden">
+								<ul id="tasks" class="check-list">
+								</ul>
+								<div id="waiting" style="padding-left: 48px; visibility:hidden">
+									<img src="images/800.gif"/>&emsp;&emsp;
+									<a href="#" onclick="return AnalyzeNTT.Cancel();">Cancel</a>
+								</div>
+							</section>
+						</div>
+						<div class="col-4 col-6-medium col-12-small">
+							<section id="results" style="visibility:hidden">
+								<span style="font-family: sans-serif;font-size: 14px;">
+								<div id="calc_results"></div>
+								</span>
+							</section>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- Footer -->
+			<section id="footer">
+				<div class="container">
+					<div class="row">
+					</div>
+				</div>
+			</section>
+
+			<!-- Copyright -->
+			<div id="copyright">
+				&copy; LucasNTT. All rights reserved. | 
+				Design from <a href="http://html5up.net">HTML5 UP</a> | 
+				<a href="https://github.com/peterolson/BigInteger.js">BigInteger library</a> from Peter Olson
+			</div>
+
+		</div>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+		<script src="lib/BigInteger/BigInteger.min.js"></script>
+		<script src="js/nttanalysis/analyzentt.js"></script>
+	</body>
+</html>

@@ -1,0 +1,157 @@
+﻿<!--
+Copyright (C) 2025 Guillaume P. Hérault (https://github.com/LucasNTT/LucasNTT.github.io)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following condition:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+-->
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>LucasNTT</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" type="image/x-icon" href="/images/favicon.ico"/>
+		<link rel="stylesheet" href="fonts/cmun-upright-italic.css"/>
+	</head>
+    <body class="subpage">
+        <div id="page-wrapper">
+
+            <!-- Header -->
+            <section id="header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+
+                            <!-- Logo -->
+                            <h1><a href="index.html" id="logo">LucasNTT Tools</a></h1>
+
+                            <!-- Nav -->
+                            <nav id="nav">
+                                <a href="index.html">Home</a>
+                                <a href="download.html">Download</a>
+                                <a href="documents.html">Documents</a>
+                                <a href="library.html">Library</a>
+                                <a href="calculator.html">Online Calculators</a>
+                                <a href="about.html">About</a>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div id="banner">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-6 col-12-medium">
+                                <p>Online Tools and Calculators</p>
+                                <a href="nttanalysis.html" class="button-large">NTT Analysis</a>
+                                &nbsp;
+                                <a href="butterfly.html" class="button-large">Butterfly Diagrams</a>
+                            </div>
+                            <div class="col-6 col-12-medium imp-medium">
+                                <!-- Banner Image -->
+                                <a href="#" class="bordered-feature-image"><img src="images/calculator.jpg" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Content -->
+            <section id="content">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-4 col-12-medium">
+                            <section>
+                                <h2>1. Choose a diagram</h2>
+                                <br>
+                                <form id="form">
+                                    <label for="category">First choose a cateogry:</label>
+                                    <select id="category" onchange="categoryTextAreaChange(event);"></select>
+                                    <label for="diagram">Then a diagram:</label>
+                                    <select id="diagram" onchange="diagramTextAreaChange(event);"></select>
+                                    <br>&nbsp;
+                                    <textarea id="diagram_json" rows="5">
+									</textarea>
+                                </form>
+                            </section>
+                        </div>
+                        <div class="col-4 col-6-medium col-12-small">
+                            <section>
+                                <h2>2. Choose a set of values</h2>
+                                <br>
+                                <form id="form2">
+                                    <label for="values">Choose values:</label>
+                                    <select id="values" onchange="valuesTextAreaChange(event);"></select>
+                                    <br>&nbsp;<br>
+                                    <br>&nbsp;<br>
+                                    <textarea id="values_json" rows="5">
+									</textarea>
+                                </form>
+                            </section>
+                        </div>
+                        <div class="col-4 col-6-medium col-12-small">
+                            <section>
+                                <h2>3. Click to draw!</h2>
+                                <p>
+                                    Then scroll down to see the animated graph (best results on a large screen).<br>
+                                    Alternatively you can edit directly the json in order to produce your own graph.
+                                </p>
+                                <p>
+                                    <label id="lblFullScreen"><input type="checkbox" id="chkFullScreen" name="checkbox">Full Screen</label>
+                                    <span><br />&nbsp;<label id="warning_anim">Warning: animations are disabled on length-32 FFT</label></span>
+                                </p>
+                                <a href="#proceed"><div class="button-large scrolly" onclick="butterflyDiagram();">Draw Diagram</div></a>
+                            </section>
+                        </div>
+                        <div class="col-12">
+                            <section id="measure">
+                                <canvas id="myCanvas" resize="true"></canvas>
+                            </section>
+                        </div>
+                    </div>
+                </div>
+                <div style="padding-top: 40px;">
+                    <section id="measure-fullscreen">
+                        <canvas id="myCanvas-fullscreen" resize="true"></canvas>
+                    </section>
+                </div> 
+            </section>
+
+    <!-- Footer -->
+                <section id="footer">
+                    <div class="container">
+                        <div class="row">
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Copyright -->
+                <div id="copyright">
+                    &copy; LucasNTT. All rights reserved. |
+                    Design from <a href="http://html5up.net">HTML5 UP</a> |
+                    Canvas drawn with <a href="http://paperjs.org/">Paper.js</a> |
+                    <a href="https://github.com/peterolson/BigInteger.js">BigInteger library</a> from Peter Olson |
+                    SIL Open Font <a href="https://checkmyworking.com/cm-web-fonts/#serif-upright-italic">Modern Computer</a>
+                </div>
+
+</div>
+
+        <!-- Scripts -->
+        <script src="assets/js/jquery.min.js"></script>
+        <script src="assets/js/browser.min.js"></script>
+        <script src="assets/js/breakpoints.min.js"></script>
+        <script src="assets/js/util.js"></script>
+        <script src="assets/js/main.js"></script>
+        <script src="lib/paper/paper-full.min.js"></script>
+        <script src="lib/BigInteger/BigInteger.min.js"></script>
+
+        <!-- My drawing -->
+        <script src="js/butterfly/canvas.js"></script>
+        <script src="js/butterfly/base.js"></script>
+        <script src="js/butterfly/controller.js"></script>
+        <script src="js/butterfly/steps.js"></script>
+    </body>
+</html>

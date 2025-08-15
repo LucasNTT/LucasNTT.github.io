@@ -1,0 +1,850 @@
+{
+    "categories": [
+        {
+            "id": 0,
+            "title": "Traditional Radix Algorithms"
+        },
+        {
+            "id": 1,
+            "title": "Traditional Forward-Backward Examples"
+        },
+        {
+            "id": 2,
+            "title": "Non-traditional Radix Algorithms"
+        },
+        {
+            "id": 3,
+            "title": "Squaring by Convolution Examples"
+        },
+        {
+            "id": 4,
+            "title": "Radix-4"
+        },
+        {
+            "id": 5,
+            "title": "Butterfly Diagrams"
+        },
+        {
+            "id": 6,
+            "title": "Assembly algorithms"
+        }
+    ],
+    "diagrams": [
+        {
+            "category": 0,
+            "title": "Stockham DIF",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Stockham DIT",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Cooley-Tukey DIF (Gentleman-Sande)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Bit-Reversal"
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Cooley-Tukey DIT",
+            "content": [
+                {
+                    "pattern": "Bit-Reversal"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Up",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Alternate Stockham DIF",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Alternate Stockham DIT",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Pease DIF",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Min",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Bit-Reversal"
+                }
+            ]
+        },
+        {
+            "category": 0,
+            "title": "Pease DIT",
+            "content": [
+                {
+                    "pattern": "Bit-Reversal"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Min",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 1,
+            "title": "Stockham",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 1,
+            "title": "Cooley-Tukey",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Up",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 1,
+            "title": "Alternate Stockham",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 1,
+            "title": "Pease",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Min",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Min",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 2,
+            "title": "Cooley-Tukey (DIT first)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": true
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Up",
+                    "strideOut": "Up",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": true
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 2,
+            "title": "Pease (DIT first)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Min",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": true
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Min",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": true
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 3,
+            "title": "Stockham",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Square"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 3,
+            "title": "Cooley-Tukey",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Square"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Up",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 3,
+            "title": "Alternate Stockham",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Square"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 3,
+            "title": "Pease",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Min",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Square"
+                },
+                {
+                    "pattern": "FFT",
+                    "forward": false,
+                    "strideIn": "Min",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Stockham DIF (forward only)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Stockham DIT (forward only)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 1,
+            "title": "Stockham (forward-backward)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": false,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Cooley-Tukey DIF (Gentleman-Sande)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Cooley-Tukey (forward-backward)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Down",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": false,
+                    "strideIn": "Up",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Alternate Stockham (forward backward)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": false,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Pease (forward backward)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Min",
+                    "DIF": true,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": false,
+                    "strideIn": "Min",
+                    "strideOut": "Max",
+                    "DIF": false,
+                    "groupW": true,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 4,
+            "title": "Squaring with Stockham",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": true,
+                    "strideIn": "Max",
+                    "strideOut": "Up",
+                    "DIF": false,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Square"
+                },
+                {
+                    "pattern": "FFT",
+                    "radix": 4,
+                    "forward": false,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Divide by N"
+                }
+            ]
+        },
+        {
+            "category": 5,
+            "title": "DIF Butterfly",
+            "content": [
+                {
+                    "pattern": "Butterfly",
+                    "DIF": true
+                }
+            ]
+        },
+        {
+            "category": 5,
+            "title": "DIT Butterfly",
+            "content": [
+                {
+                    "pattern": "Butterfly",
+                    "DIF": false
+                }
+            ]
+        },
+        {
+            "category": 6,
+            "title": "4-Step",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "length": "N2",
+                    "forward": true,
+                    "transposed": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Factor"
+                },
+                {
+                    "pattern": "Transpose"
+                },
+                {
+                    "pattern": "FFT",
+                    "length": "N1",
+                    "forward": true,
+                    "transposed": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                }
+            ]
+        },
+        {
+            "category": 6,
+            "title": "4-Step (alternative)",
+            "content": [
+                {
+                    "pattern": "FFT",
+                    "length": "N2",
+                    "forward": true,
+                    "transposed": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Factor"
+                },
+                {
+                    "pattern": "FFT",
+                    "length": "N1",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Transpose"
+                }
+            ]
+        },
+        {
+            "category": 6,
+            "title": "6-Step",
+            "content": [
+                {
+                    "pattern": "Transpose"
+                },
+                {
+                    "pattern": "FFT",
+                    "length": "N2",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Factor",
+                    "width":  "N1"
+                },
+                {
+                    "pattern": "Transpose",
+                    "width": "N1"
+                },
+                {
+                    "pattern": "FFT",
+                    "length": "N1",
+                    "forward": true,
+                    "strideIn": "Down",
+                    "strideOut": "Max",
+                    "DIF": true,
+                    "groupW": false,
+                    "bitRevW": false
+                },
+                {
+                    "pattern": "Transpose"
+                }
+            ]
+        }
+    ],
+    "valueSets": [
+        {
+            "title": "N=8, empty diagram",
+            "content": {
+                "params": { "log_N": 3 },
+                "values": []
+            }
+        },
+        {
+            "title": "N=16, empty diagram",
+            "content": {
+                "params": { "log_N": 4 },
+                "values": []
+            }
+        },
+        {
+            "title": "────────────────────",
+            "disabled": true
+        },
+        {
+            "title": "N=8, tiny p=257, {1, 1, 1, 1}",
+            "content": {
+                "params": {
+                    "log_N": 3,
+                    "w": "4",
+                    "p": "257"
+                },
+                "values": [ "1", "1", "1", "1", "0", "0", "0", "0" ]
+            }
+        },
+        {
+            "title": "N=16, small p=2^16+1, {1, 1, 1, 1}",
+            "content": {
+                "params": {
+                    "log_N": 4,
+                    "w": "64",
+                    "p": "65537"
+                },
+                "values": [ "1", "1", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+            }
+        },
+        {
+            "title": "N=32, small p=2^16+1, {1, 1, 1, 1}",
+            "content": {
+                "params": {
+                    "log_N": 5,
+                    "w": "65529",
+                    "p": "65537"
+                },
+                "values": [ "1", "1", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+            }
+        },
+        {
+            "title": "N=16, large p=45*2^29+1, {1, 1, 1, 1}",
+            "content": {
+                "params": {
+                    "log_N": 4,
+                    "w": "14480478458",
+                    "p": "24159191041"
+                },
+                "values": [ "1", "1", "1", "1", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ]
+            }
+        },
+        {
+            "title": "N=8, huge p=2^64-2^32+1, {1, 1, 1, 1}",
+            "content": {
+                "params": {
+                    "log_N": 3,
+                    "w": "18446744069397807105",
+                    "p": "18446744069414584321"
+                },
+                "values": [ "1", "1", "1", "1", "0", "0", "0", "0" ]
+            }
+        }
+    ]
+}
+
+
+
