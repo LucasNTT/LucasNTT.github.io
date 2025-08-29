@@ -5328,6 +5328,28 @@
       "Url": null
     },
     {
+      "Code": "OJS25",
+      "Title": "High-Performance Number Theoretic Transform on GPU Through radix2-CT and 4-Step Algorithms",
+      "Year": "2025",
+      "Type": "paper",
+      "Authors": [
+        {
+          "First_Name": " Alisah",
+          "Last_Name": "Ozcan"
+        },
+        {
+          "First_Name": " Arsalan",
+          "Last_Name": "Javeed"
+        },
+        {
+          "First_Name": " Erkay",
+          "Last_Name": "Savas"
+        }
+      ],
+      "Tags": "OJS25 2025 Paper 22-pages NTT Ozcan Javeed Savas High-Performance Number Theoretic Transform on GPU Through radix2-CT and 4-Step Algorithms",
+      "Url": null
+    },
+    {
       "Code": "Osg07",
       "Title": "The Fourier Transform and its Applications",
       "Year": "2007",
@@ -7342,25 +7364,17 @@
       "Url": null
     },
     {
-      "Code": "OJS25",
-      "Title": "High-Performance Number Theoretic Transform on GPU Through radix2-CT and 4-Step Algorithms",
-      "Year": "2025",
+      "Code": "Bar87",
+      "Title": "Implementing the Rivest Shamir and Adleman Public Key Encryption Algorithm on a Standard Digital Signal Processor",
+      "Year": "1987",
       "Type": "paper",
       "Authors": [
         {
-          "First_Name": " Alisah",
-          "Last_Name": "Ozcan"
-        },
-        {
-          "First_Name": " Arsalan",
-          "Last_Name": "Javeed"
-        },
-        {
-          "First_Name": " Erkay",
-          "Last_Name": "Savas"
+          "First_Name": "Paul",
+          "Last_Name": "Barrett"
         }
       ],
-      "Tags": "OJS25 2025 Paper 22-pages NTT Ozcan Javeed Savas High-Performance Number Theoretic Transform on GPU Through radix2-CT and 4-Step Algorithms",
+      "Tags": "Bar87 1987 paper 13-pages Arithmetics Barrett Implementing the Rivest Shamir and Adleman Public Key Encryption Algorithm on Standard Digital Signal Processor",
       "Url": null
     }
   ]
